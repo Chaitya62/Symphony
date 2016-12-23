@@ -1,0 +1,1715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="12.9967in" height="15.0433in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 12997 15043"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:6.94488;stroke-opacity:0.600000}
+    .str70 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str69 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str12 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str10 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str11 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str9 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str36 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str29 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str35 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str30 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str31 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str32 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str34 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str33 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str88 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str85 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str86 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str87 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str89 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str84 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str83 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str90 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str132 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str131 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str134 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str133 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str136 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str137 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str40 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str38 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str42 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str41 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str39 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str37 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str14 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str117 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str44 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str45 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str43 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str47 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str48 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str46 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str109 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str106 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str114 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str108 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str99 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str116 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str110 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str113 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str107 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str115 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str111 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str74 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str80 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str73 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str75 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str82 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str72 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str81 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str78 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str77 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str76 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str79 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str100 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str104 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str101 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str102 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str98 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str105 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str103 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str16 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str17 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str15 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str28 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str27 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str25 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str26 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str24 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str124 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str123 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str125 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str126 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str66 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str64 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str65 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str13 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str67 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str20 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str62 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str59 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str61 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str63 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str18 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str23 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str19 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str21 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str22 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str60 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str135 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str95 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str92 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str93 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str94 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str96 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str91 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str97 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str120 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str118 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str119 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str121 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str122 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str55 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str50 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str53 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str57 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str54 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str52 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str58 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str56 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str51 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str49 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str128 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str127 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str130 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str129 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str5 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str68 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str6 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str71 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str112 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str8 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str4 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str7 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str3 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .str2 {stroke:#0C3449;stroke-width:69.1417;stroke-linecap:round;stroke-linejoin:round}
+    .fil15 {fill:none}
+    .fil18 {fill:#062B3D}
+    .fil16 {fill:#0A5D89}
+    .fil17 {fill:#0F6892}
+    .fil14 {fill:#158099}
+    .fil7 {fill:#16B3DE}
+    .fil0 {fill:#1BBEE9}
+    .fil11 {fill:#1C98BC}
+    .fil4 {fill:#31C2E1}
+    .fil10 {fill:#5ECBEA}
+    .fil5 {fill:#66CBE7}
+    .fil12 {fill:#7DD1EB}
+    .fil8 {fill:#82D3E6}
+    .fil3 {fill:#8ED7EA}
+    .fil6 {fill:#A3DBEC}
+    .fil13 {fill:#BAE6F3}
+    .fil9 {fill:#E3F4FC}
+    .fil2 {fill:#0C3449;fill-rule:nonzero}
+    .fil1 {fill:#115663;fill-opacity:0.600000}
+   ]]>
+  </style>
+     <clipPath id="id0">
+      <path d="M12753 5329l-1959 -365 -373 -2014 -1197 -262 -2305 -2688 -1102 1635 -1466 -194 -994 1451 -2399 772 -959 2120 12998 0 -244 -455z"/>
+     </clipPath>
+     <clipPath id="id1">
+      <path d="M9025 3562l410 2222 2075 0 -716 -820 -373 -2014 -1396 612z"/>
+     </clipPath>
+     <clipPath id="id2">
+      <path d="M7474 2135l1289 1584 670 2053 -408 -2210 -1551 -1427z"/>
+     </clipPath>
+     <clipPath id="id3">
+      <path d="M7474 2135l0 1473 559 2176 169 -2065 -728 -1584z"/>
+     </clipPath>
+     <clipPath id="id4">
+      <path d="M5584 3655l1429 2129 1020 0 -559 -2228 -1890 99z"/>
+     </clipPath>
+     <clipPath id="id5">
+      <path d="M5078 5784l1935 0 -1429 -2129 -506 2129z"/>
+     </clipPath>
+     <clipPath id="id6">
+      <path d="M6366 3175l553 -3175 -1102 1635 -1368 1369 1135 651 782 -480z"/>
+     </clipPath>
+     <clipPath id="id7">
+      <path d="M5817 1635l-1466 -194 98 1563 1368 -1369z"/>
+     </clipPath>
+     <clipPath id="id8">
+      <path d="M5584 3655l-1135 -651 -1092 -112 464 1341 -191 1551 1448 0 506 -2129z"/>
+     </clipPath>
+     <clipPath id="id9">
+      <path d="M2123 4040l784 814 307 930 -524 0 -567 -1744z"/>
+     </clipPath>
+     <clipPath id="id10">
+      <path d="M958 3664l415 1060 -659 1060 -715 0 959 -2120z"/>
+     </clipPath>
+     <clipPath id="id11">
+      <path d="M6366 3175l553 -3175 2305 2688 1197 262 -1396 612 -1551 -1427 0 1421 -1890 99 782 -480z"/>
+     </clipPath>
+     <clipPath id="id12">
+      <path d="M8033 5784l730 -2065 670 2053 2 12 -1402 0z"/>
+     </clipPath>
+     <clipPath id="id13">
+      <path d="M11510 5784l-716 -820 1959 365 244 455 -1487 0z"/>
+     </clipPath>
+    <clipPath id="id14">
+     <path d="M11897 5784l-10786 0 409 2572 1131 0 508 1441 104 2963 1554 0 0 2284 1433 0 -19 -1647 827 -78 -23 1009 1374 6 2 -2583 1236 -2362 568 7 1 -2431 370 -47 1142 -287 169 -847z"/>
+    </clipPath>
+    <clipPath id="id15">
+     <path d="M8289 5784l-860 0 10 4002 40 1782 722 -129 50 -1794 38 -3861z"/>
+    </clipPath>
+    <clipPath id="id16">
+     <path d="M8289 5784l1076 0 349 1700 -67 1905 -1406 597 48 -4202z"/>
+    </clipPath>
+    <clipPath id="id17">
+     <path d="M10609 5784l-691 0 668 1134 23 -1134z"/>
+    </clipPath>
+    <clipPath id="id18">
+     <path d="M6857 5784l572 0 3 1137 -575 -1137z"/>
+    </clipPath>
+    <clipPath id="id19">
+     <path d="M2855 5784l835 0 -215 864 117 1870 1082 3749 -1743 -203 150 -2486 -430 -1222 -78 -1664 282 -908z"/>
+    </clipPath>
+    <clipPath id="id20">
+     <path d="M5562 12261l-307 -1061 -334 0 -104 1560 0 2284 756 0 -11 -2783z"/>
+    </clipPath>
+    <clipPath id="id21">
+     <path d="M7432 6918l-575 -1134 -1269 0 114 4996 1137 48 66 3500 634 2 -100 -4544 -7 -2868z"/>
+    </clipPath>
+    <clipPath id="id22">
+     <path d="M5019 14645l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id23">
+     <path d="M5019 14186l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id24">
+     <path d="M5019 13728l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id25">
+     <path d="M5019 13270l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id26">
+     <path d="M4017 9840l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id27">
+     <path d="M5023 12811l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id28">
+     <path d="M7113 13833l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id29">
+     <path d="M7113 13375l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id30">
+     <path d="M7113 12916l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id31">
+     <path d="M3354 8595l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id32">
+     <path d="M3354 8067l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id33">
+     <path d="M3354 7538l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id34">
+     <path d="M3354 7010l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id35">
+     <path d="M3354 6482l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id36">
+     <path d="M3354 5953l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id37">
+     <path d="M7113 12458l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id38">
+     <path d="M7113 12000l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id39">
+     <path d="M7113 11504l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id40">
+     <path d="M7113 11045l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id41">
+     <path d="M7113 10587l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id42">
+     <path d="M6633 10129l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id43">
+     <path d="M6633 9569l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id44">
+     <path d="M6633 9009l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id45">
+     <path d="M6633 8450l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id46">
+     <path d="M6633 7890l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id47">
+     <path d="M6633 7330l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id48">
+     <path d="M6633 6771l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id49">
+     <path d="M6633 6211l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id50">
+     <path d="M9813 8754l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id51">
+     <path d="M9813 8296l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id52">
+     <path d="M9813 7800l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id53">
+     <path d="M9813 7341l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id54">
+     <path d="M9813 6883l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id55">
+     <path d="M9813 6425l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id56">
+     <path d="M7767 13833l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id57">
+     <path d="M7767 13375l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id58">
+     <path d="M7767 12916l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id59">
+     <path d="M7767 12458l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id60">
+     <path d="M7767 12000l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id61">
+     <path d="M7767 11504l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id62">
+     <path d="M5951 10272l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id63">
+     <path d="M5951 9814l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id64">
+     <path d="M5951 9355l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id65">
+     <path d="M5951 8859l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id66">
+     <path d="M5951 8401l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id67">
+     <path d="M5951 7943l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id68">
+     <path d="M5951 7484l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id69">
+     <path d="M5951 7026l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id70">
+     <path d="M5951 6568l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id71">
+     <path d="M5951 6110l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id72">
+     <path d="M3354 11237l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id73">
+     <path d="M3354 10708l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id74">
+     <path d="M3354 10180l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id75">
+     <path d="M3354 9652l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id76">
+     <path d="M3354 9123l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id77">
+     <path d="M4017 11710l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id78">
+     <path d="M4017 11252l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id79">
+     <path d="M4017 10756l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id80">
+     <path d="M4017 10298l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id81">
+     <path d="M4072 5784l600 0 -124 1404 150 4012 224 1 -90 1610 -1237 -4283 -120 -1880 597 -864z"/>
+    </clipPath>
+    <clipPath id="id82">
+     <path d="M5019 12354l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id83">
+     <path d="M5019 11896l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id84">
+     <path d="M3690 5784l382 0 -597 864 215 -864z"/>
+    </clipPath>
+    <clipPath id="id85">
+     <path d="M7719 10909l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id86">
+     <path d="M7719 10450l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id87">
+     <path d="M7719 9992l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id88">
+     <path d="M7719 9534l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id89">
+     <path d="M7719 9075l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id90">
+     <path d="M7719 8579l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id91">
+     <path d="M7719 8121l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id92">
+     <path d="M7719 7663l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id93">
+     <path d="M7719 7205l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id94">
+     <path d="M7719 6746l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id95">
+     <path d="M7719 6288l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id96">
+     <path d="M8517 9314l209 0 0 209 -209 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id97">
+     <path d="M8517 8818l209 0 0 209 -209 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id98">
+     <path d="M8517 8359l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id99">
+     <path d="M8517 7901l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id100">
+     <path d="M8517 7443l209 0 0 209 -209 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id101">
+     <path d="M8517 6984l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id102">
+     <path d="M8517 6526l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id103">
+     <path d="M8517 6068l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id104">
+     <path d="M9014 8818l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id105">
+     <path d="M9014 8359l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id106">
+     <path d="M9014 7901l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id107">
+     <path d="M9014 7443l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id108">
+     <path d="M9014 6984l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id109">
+     <path d="M9014 6526l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id110">
+     <path d="M9014 6068l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id111">
+     <path d="M5782 14644l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id112">
+     <path d="M5001 6219l209 0 0 209 -209 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id113">
+     <path d="M5782 14070l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id114">
+     <path d="M5782 13496l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id115">
+     <path d="M5782 12922l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id116">
+     <path d="M5782 12348l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id117">
+     <path d="M5782 11774l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id118">
+     <path d="M5782 11200l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id119">
+     <path d="M5001 9006l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id120">
+     <path d="M5001 8548l209 0 0 209 -209 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id121">
+     <path d="M5001 8089l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id122">
+     <path d="M5001 7593l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id123">
+     <path d="M5001 7135l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id124">
+     <path d="M5001 6677l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id125">
+     <path d="M4672 5784l916 0 -1040 1404 124 -1404z"/>
+    </clipPath>
+    <clipPath id="id126">
+     <path d="M5001 10880l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id127">
+     <path d="M5001 10422l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id128">
+     <path d="M5001 9964l209 0 0 209 -209 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id129">
+     <path d="M5001 9468l209 0 0 209 -209 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id130">
+     <path d="M5023 11437l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id131">
+     <path d="M2826 5953l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id132">
+     <path d="M2826 8067l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id133">
+     <path d="M2826 7538l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id134">
+     <path d="M2826 7010l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id135">
+     <path d="M2826 6482l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id136">
+     <path d="M6348 12814l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id137">
+     <path d="M6348 12241l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id138">
+     <path d="M6348 11668l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id139">
+     <path d="M6344 11096l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id140">
+     <path d="M2137 7729l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id141">
+     <path d="M2137 7201l209 0 0 209 -209 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id142">
+     <path d="M2137 6672l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id143">
+     <path d="M2137 6144l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id144">
+     <path d="M1609 7729l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id145">
+     <path d="M1609 7201l210 0 0 209 -210 0 0 -209z"/>
+    </clipPath>
+    <clipPath id="id146">
+     <path d="M1609 6672l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id147">
+     <path d="M1609 6144l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id148">
+     <path d="M3354 11693l210 0 0 210 -210 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id149">
+     <path d="M4227 12371l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+    <clipPath id="id150">
+     <path d="M3564 12354l209 0 0 210 -209 0 0 -210z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1000213288320">
+   <g>
+    <polygon class="fil0" points="12753,5329 10794,4964 10421,2950 9224,2688 6919,0 5817,1635 4351,1441 3357,2892 958,3664 -1,5784 12997,5784 "/>
+    <g style="clip-path:url(#id0)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M10788 4998l-28 -28 40 -40 1960 365 -13 68 -1959 -365zm12 -68l-12 68c-19,-4 -31,-22 -28,-41 4,-18 22,-31 40,-27zm-413 -1974l41 -40 27 28 373 2013 -68 13 -373 -2014zm68 -12l-68 12c-3,-18 9,-36 28,-40 19,-3 36,9 40,28zm-1239 -222l-18 -11 33 -57 1197 262 -14 68 -1198 -262zm15 -68l-15 68c-18,-4 -30,-23 -26,-41 4,-19 22,-31 41,-27zm-2338 -2632l-3 -42 55 -3 2305 2688 -52 46 -2305 -2689zm52 -45l-52 45c-13,-14 -11,-36 3,-49 15,-12 36,-10 49,4zm-1100 1677l-33 15 -24 -53 1102 -1636 57 39 -1102 1635zm-57 -38l57 38c-10,16 -32,20 -47,10 -16,-11 -20,-33 -10,-48zm-1441 -141l-24 -54 33 -14 1465 194 -9 68 -1465 -194zm9 -68l-9 68c-19,-2 -32,-20 -30,-38 3,-19 20,-33 39,-30zm-970 1504l-18 14 -39 -53 994 -1451 57 40 -994 1450zm-57 -39l57 39c-11,16 -33,20 -48,9 -16,-11 -20,-32 -9,-48zm-2360 825l-42 -47 21 -19 2399 -772 21 66 -2399 772zm-21 -66l21 66c-18,6 -38,-4 -43,-23 -6,-18 4,-37 22,-43zm-917 2167l-32 20 -31 -49 959 -2119 63 28 -959 2120zm-63 -29l63 29c-8,17 -28,25 -46,17 -17,-8 -25,-28 -17,-46zm13029 -20l30 18 -30 51 -12998 0 0 -69 12998 0zm0 69l0 -69c19,0 35,16 35,35 0,19 -16,34 -35,34zm-274 -472l37 -51 23 18 244 454 -60 33 -244 -454zm60 -33l-60 33c-9,-17 -3,-38 14,-47 17,-9 37,-3 46,14z"/>
+    </g>
+    <polygon class="fil3" points="9025,3562 9435,5784 11510,5784 10794,4964 10421,2950 "/>
+    <g style="clip-path:url(#id1)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M9469 5777l-34 41 -34 -28 -410 -2221 67 -13 411 2221zm-68 13l68 -13c3,19 -9,37 -28,41 -18,3 -36,-9 -40,-28zm2109 -41l26 12 -26 57 -2075 0 0 -69 2075 0zm0 69l0 -69c19,0 34,16 34,35 0,19 -15,34 -34,34zm-742 -831l-8 -17 60 -29 716 820 -52 45 -716 -819zm52 -46l-52 46c-12,-15 -11,-37 3,-49 15,-13 36,-11 49,3zm-433 -1985l20 -38 48 26 373 2013 -68 13 -373 -2014zm68 -12l-68 12c-3,-18 9,-36 28,-40 19,-3 36,9 40,28zm-1417 650l-47 -25 20 -38 1396 -613 28 64 -1397 612zm-27 -63l27 63c-17,8 -37,0 -45,-18 -7,-17 1,-38 18,-45z"/>
+    </g>
+    <polygon class="fil4" points="7474,2135 8763,3719 9433,5772 9025,3562 "/>
+    <g style="clip-path:url(#id2)">
+     <g id="_1000217944416">
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M8790 3697l6 11 -59 33 -1289 -1584 53 -44 1289 1584zm-53 44l53 -44c12,14 10,36 -5,48 -14,12 -36,10 -48,-4zm728 2020l2 4 -67 17 -669 -2053 65 -21 669 2053zm-65 21l65 -21c6,18 -3,38 -22,44 -18,5 -37,-4 -43,-23zm-409 -2213l57 -32 10 19 409 2209 -68 13 -408 -2209zm67 -13l-67 13c-4,-19 9,-37 27,-41 19,-3 37,9 40,28zm-1607 -1396l-3 -3 49 -48 1551 1428 -47 51 -1550 -1428zm46 -51l-46 51c-14,-13 -15,-35 -2,-49 13,-14 34,-15 48,-2z"/>
+    </g>
+    <polygon class="fil5" points="7474,2135 7474,3608 8033,5784 8202,3719 "/>
+    <g style="clip-path:url(#id3)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M7508 3608l-67 9 -1 -9 0 -1473 68 0 0 1473zm-68 0l68 0c0,19 -15,35 -34,35 -19,0 -34,-16 -34,-35zm626 2167l1 11 -67 6 -559 -2175 66 -18 559 2176zm-66 17l66 -17c5,18 -6,37 -24,42 -19,5 -37,-6 -42,-25zm167 -2076l66 -12 3 17 -169 2065 -68 -5 168 -2065zm69 5l-69 -5c2,-19 19,-33 37,-32 19,2 33,18 32,37zm-793 -1572l-3 -14 65 -15 728 1584 -63 29 -727 -1584zm62 -29l-62 29c-8,-17 -1,-38 17,-46 17,-8 37,0 45,17z"/>
+    </g>
+    <polygon class="fil6" points="5584,3655 7013,5784 8033,5784 7474,3556 "/>
+    <g style="clip-path:url(#id4)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M7042 5764l-29 54 -28 -15 -1430 -2128 57 -39 1430 2128zm-57 39l57 -39c10,16 6,38 -9,48 -16,11 -38,7 -48,-9zm1048 -54l33 26 -33 43 -1020 0 0 -69 1020 0zm0 69l0 -69c19,0 34,16 34,35 0,19 -15,34 -34,34zm-592 -2254l31 -43 35 27 559 2227 -66 17 -559 -2228zm66 -16l-66 16c-5,-18 6,-37 25,-42 18,-4 37,7 41,26zm-1921 142l-31 -15 27 -54 1890 -100 4 70 -1890 99zm-4 -69l4 69c-19,1 -36,-14 -37,-33 -1,-19 14,-35 33,-36z"/>
+    </g>
+    <polygon class="fil7" points="5078,5784 7013,5784 5584,3655 "/>
+    <g style="clip-path:url(#id5)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M7013 5749l29 15 -29 54 -1935 0 0 -69 1935 0zm0 69l0 -69c19,0 35,16 35,35 0,19 -16,34 -35,34zm-1458 -2143l-5 -28 62 -11 1430 2128 -57 39 -1430 -2128zm57 -39l-57 39c-10,-16 -6,-37 9,-48 16,-11 38,-7 48,9zm-500 2156l-34 26 -33 -42 505 -2129 67 17 -505 2128zm-67 -16l67 16c-5,18 -23,30 -42,25 -18,-4 -29,-23 -25,-41z"/>
+    </g>
+    <polygon class="fil8" points="6366,3175 6919,0 5817,1635 4449,3004 5584,3655 "/>
+    <g style="clip-path:url(#id6)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M6885 -6l5 -14 63 26 -554 3175 -67 -12 553 -3175zm68 12l-68 -12c3,-19 21,-32 40,-28 18,3 31,21 28,40zm-1108 1648l-4 6 -53 -44 1102 -1636 57 39 -1102 1635zm-57 -38l57 38c-10,16 -32,20 -47,10 -16,-11 -20,-33 -10,-48zm-1315 1412l-41 6 -7 -55 1368 -1368 48 49 -1368 1368zm-48 -49l48 49c-13,14 -35,14 -48,0 -14,-14 -14,-35 0,-49zm1176 646l1 60 -35 1 -1135 -652 34 -60 1135 651zm-34 61l34 -61c16,10 22,31 13,48 -10,16 -31,22 -47,13zm781 -540l51 35 -16 24 -781 480 -36 -59 782 -480zm35 59l-35 -59c16,-10 37,-5 47,11 10,16 5,38 -12,48z"/>
+    </g>
+    <polygon class="fil9" points="5817,1635 4351,1441 4449,3004 "/>
+    <g style="clip-path:url(#id7)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M4347 1475l-30 -32 39 -36 1465 194 -9 68 -1465 -194zm9 -68l-9 68c-19,-2 -32,-20 -30,-38 3,-19 20,-33 39,-30zm127 1594l-10 27 -58 -22 -98 -1563 69 -4 97 1562zm-68 5l68 -5c1,20 -13,36 -32,37 -19,1 -35,-13 -36,-32zm1378 -1395l28 -10 20 59 -1368 1368 -48 -49 1368 -1368zm48 49l-48 -49c13,-14 35,-14 48,0 14,13 14,35 0,49z"/>
+    </g>
+    <polygon class="fil10" points="5584,3655 4449,3004 3357,2892 3821,4233 3630,5784 5078,5784 "/>
+    <g style="clip-path:url(#id8)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M4432 3034l20 -65 14 5 1135 651 -34 61 -1135 -652zm34 -60l-34 60c-17,-10 -22,-31 -13,-47 10,-17 30,-23 47,-13zm-1112 -48l-29 -23 36 -46 1091 112 -7 69 -1091 -112zm7 -69l-7 69c-19,-2 -33,-19 -31,-38 2,-19 19,-33 38,-31zm493 1364l1 16 -66 7 -464 -1341 65 -23 464 1341zm-65 23l65 -23c6,18 -3,38 -21,44 -18,7 -38,-3 -44,-21zm-124 1544l-35 30 -34 -39 191 -1550 68 8 -190 1551zm-69 -9l69 9c-3,19 -20,32 -39,30 -19,-2 -32,-20 -30,-39zm1482 -30l34 43 -34 26 -1448 0 0 -69 1448 0zm0 69l0 -69c19,0 35,16 35,35 0,19 -16,34 -35,34zm472 -2171l51 -22 16 39 -505 2128 -67 -16 505 -2129zm67 17l-67 -17c5,-18 23,-30 42,-25 18,4 30,23 25,42z"/>
+    </g>
+    <polygon class="fil11" points="2123,4040 2907,4854 3214,5784 2690,5784 "/>
+    <g style="clip-path:url(#id9)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="-8696,-2420 6374,-2420 6374,17464 -8696,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M2882 4878l-783 -814 49 -48 783 814 8 14 -57 34zm49 -48c13,14 13,36 -1,49 -13,14 -35,13 -48,-1l49 -48zm251 965l-308 -930 65 -21 308 929 -33 45 -32 -23zm65 -22c6,18 -4,37 -22,43 -18,6 -37,-3 -43,-21l65 -22zm-557 -24l524 0 0 69 -524 0 -33 -24 33 -45zm0 69c-19,0 -35,-15 -35,-34 0,-19 16,-35 35,-35l0 69zm-534 -1788l566 1743 -65 21 -566 -1743 57 -35 8 14zm-65 21c-6,-18 4,-38 22,-43 18,-6 37,4 43,22l-65 21z"/>
+    </g>
+    <polygon class="fil11" points="958,3664 1373,4724 714,5784 -1,5784 "/>
+    <g style="clip-path:url(#id10)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M1341 4736l-415 -1059 64 -26 415 1060 -3 31 -61 -6zm64 -25c7,18 -1,38 -19,45 -18,7 -38,-2 -45,-20l64 -25zm-720 1054l659 -1060 58 37 -659 1060 -29 16 -29 -53zm58 37c-10,16 -31,21 -47,11 -16,-10 -21,-32 -11,-48l58 37zm-744 -53l715 0 0 69 -715 0 -31 -49 31 -20zm0 69c-18,0 -34,-15 -34,-34 0,-19 16,-35 34,-35l0 69zm991 -2140l-959 2120 -63 -29 959 -2119 63 1 0 27zm-63 -28c8,-18 28,-25 46,-18 17,8 24,29 17,46l-63 -28z"/>
+    </g>
+    <polygon class="fil9" points="6366,3175 6919,0 9224,2688 10421,2950 9025,3562 7474,2135 7474,3556 5584,3655 "/>
+    <g style="clip-path:url(#id11)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M6885 -6l60 -17 8 29 -554 3175 -67 -12 553 -3175zm68 12l-68 -12c3,-19 21,-32 40,-28 18,3 31,21 28,40zm2297 2659l-34 57 -18 -11 -2305 -2689 52 -45 2305 2688zm-52 46l52 -46c12,15 10,37 -4,49 -14,13 -36,11 -48,-3zm1230 205l7 66 -21 2 -1198 -262 15 -68 1197 262zm-14 68l14 -68c19,4 31,23 27,41 -4,19 -23,31 -41,27zm-1376 610l-37 -6 10 -57 1396 -613 28 64 -1397 612zm-27 -63l27 63c-17,8 -37,0 -45,-18 -7,-17 1,-38 18,-45zm-1560 -1371l-11 -25 57 -26 1551 1428 -47 51 -1550 -1428zm46 -51l-46 51c-14,-13 -15,-35 -2,-49 13,-14 34,-15 48,-2zm11 1447l-32 35 -36 -35 0 -1421 68 0 0 1421zm-68 0l68 0c0,19 -15,35 -34,35 -19,0 -34,-16 -34,-35zm-1854 134l-20 -64 16 -5 1890 -100 4 70 -1890 99zm-4 -69l4 69c-19,1 -36,-14 -37,-33 -1,-19 14,-35 33,-36zm766 -475l51 35 -16 24 -781 480 -36 -59 782 -480zm35 59l-35 -59c16,-10 37,-5 47,11 10,16 5,38 -12,48z"/>
+    </g>
+    <polygon class="fil12" points="8033,5784 8763,3719 9433,5772 9435,5784 "/>
+    <g style="clip-path:url(#id12)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M8731 3707l65 1 0 22 -731 2065 -64 -23 730 -2065zm65 23l-65 -23c6,-18 26,-27 44,-21 18,6 27,26 21,44zm669 2031l2 4 -67 17 -669 -2053 65 -21 669 2053zm-65 21l65 -21c6,18 -3,38 -22,44 -18,5 -37,-4 -43,-23zm69 -5l-34 41 -34 -28 -2 -12 68 -13 2 12zm-68 13l68 -13c3,19 -9,37 -28,41 -18,3 -36,-9 -40,-28zm-1368 28l-32 -46 32 -23 1402 0 0 69 -1402 0zm0 -69l0 69c-19,0 -34,-15 -34,-34 0,-19 15,-35 34,-35z"/>
+    </g>
+    <polygon class="fil13" points="11510,5784 10794,4964 12753,5329 12997,5784 "/>
+    <g style="clip-path:url(#id13)">
+     <g>
+      <polygon id="1" class="fil1 str0" points="14033,-2420 -1037,-2420 -1037,17464 14033,17464 "/>
+     </g>
+    </g>
+    <g>
+     <path class="fil2" d="M10768 4987l32 -57 20 11 716 820 -52 45 -716 -819zm52 -46l-52 46c-12,-15 -11,-37 3,-49 15,-13 36,-11 49,3zm1940 354l23 18 -36 50 -1959 -365 12 -68 1960 365zm-13 68l13 -68c18,4 31,22 27,41 -3,18 -21,31 -40,27zm280 404l-30 51 -30 -18 -244 -454 60 -33 244 454zm-60 33l60 -33c9,17 3,38 -13,47 -17,9 -38,3 -47,-14zm-1457 18l-26 -12 26 -57 1487 0 0 69 -1487 0zm0 -69l0 69c-19,0 -34,-15 -34,-34 0,-19 15,-35 34,-35z"/>
+    </g>
+   </g>
+   <polygon class="fil14" points="11897,5784 1111,5784 1520,8356 2651,8356 3159,9797 3263,12760 4817,12760 4817,15044 6250,15044 6231,13397 7058,13319 7035,14328 8409,14334 8411,11751 9647,9389 10215,9396 10216,6965 10586,6918 11728,6631 "/>
+   <g style="clip-path:url(#id14)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str1" points="11897,5784 1111,5784 1520,8356 2651,8356 3159,9797 3263,12760 4817,12760 4817,15044 6250,15044 6231,13397 7058,13319 7035,14328 8409,14334 8411,11751 9647,9389 10215,9396 10216,6965 10586,6918 11728,6631 "/>
+   <polygon class="fil16" points="8289,5784 7429,5784 7439,9786 7479,11568 8201,11439 8251,9645 "/>
+   <g style="clip-path:url(#id15)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str2" points="8289,5784 7429,5784 7439,9786 7479,11568 8201,11439 8251,9645 "/>
+   <polygon class="fil17" points="8289,5784 9365,5784 9714,7484 9647,9389 8241,9986 "/>
+   <g style="clip-path:url(#id16)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str3" points="8289,5784 9365,5784 9714,7484 9647,9389 8241,9986 "/>
+   <polygon class="fil18" points="10609,5784 9918,5784 10586,6918 "/>
+   <g style="clip-path:url(#id17)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str4" points="10609,5784 9918,5784 10586,6918 "/>
+   <polygon class="fil16" points="6857,5784 7429,5784 7432,6921 "/>
+   <g style="clip-path:url(#id18)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str5" points="6857,5784 7429,5784 7432,6921 "/>
+   <polygon class="fil18" points="2855,5784 3690,5784 3475,6648 3592,8518 4674,12267 2931,12064 3081,9578 2651,8356 2573,6692 "/>
+   <g style="clip-path:url(#id19)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str6" points="2855,5784 3690,5784 3475,6648 3592,8518 4674,12267 2931,12064 3081,9578 2651,8356 2573,6692 "/>
+   <polygon class="fil16" points="5562,12261 5255,11200 4921,11200 4817,12760 4817,15044 5573,15044 "/>
+   <g style="clip-path:url(#id20)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str7" points="5562,12261 5255,11200 4921,11200 4817,12760 4817,15044 5573,15044 "/>
+   <polygon class="fil17" points="7432,6918 6857,5784 5588,5784 5702,10780 6839,10828 6905,14328 7539,14330 7439,9786 "/>
+   <g style="clip-path:url(#id21)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str8" points="7432,6918 6857,5784 5588,5784 5702,10780 6839,10828 6905,14328 7539,14330 7439,9786 "/>
+   <polygon class="fil13" points="5019,14645 5229,14645 5229,14854 5019,14854 "/>
+   <g style="clip-path:url(#id22)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str9" points="5019,14645 5229,14645 5229,14854 5019,14854 "/>
+   <polygon class="fil13" points="5019,14186 5229,14186 5229,14396 5019,14396 "/>
+   <g style="clip-path:url(#id23)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str10" points="5019,14186 5229,14186 5229,14396 5019,14396 "/>
+   <polygon class="fil13" points="5019,13728 5229,13728 5229,13938 5019,13938 "/>
+   <g style="clip-path:url(#id24)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str11" points="5019,13728 5229,13728 5229,13938 5019,13938 "/>
+   <polygon class="fil13" points="5019,13270 5229,13270 5229,13479 5019,13479 "/>
+   <g style="clip-path:url(#id25)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str12" points="5019,13270 5229,13270 5229,13479 5019,13479 "/>
+   <polygon class="fil16" points="4017,9840 4227,9840 4227,10049 4017,10049 "/>
+   <g style="clip-path:url(#id26)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2545 1040,-2545 1040,17339 11956,17339 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str13" points="4017,9840 4227,9840 4227,10049 4017,10049 "/>
+   <polygon class="fil13" points="5023,12811 5232,12811 5232,13021 5023,13021 "/>
+   <g style="clip-path:url(#id27)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str14" points="5023,12811 5232,12811 5232,13021 5023,13021 "/>
+   <polygon class="fil13" points="7113,13833 7323,13833 7323,14043 7113,14043 "/>
+   <g style="clip-path:url(#id28)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str15" points="7113,13833 7323,13833 7323,14043 7113,14043 "/>
+   <polygon class="fil13" points="7113,13375 7323,13375 7323,13584 7113,13584 "/>
+   <g style="clip-path:url(#id29)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str16" points="7113,13375 7323,13375 7323,13584 7113,13584 "/>
+   <polygon class="fil13" points="7113,12916 7323,12916 7323,13126 7113,13126 "/>
+   <g style="clip-path:url(#id30)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str17" points="7113,12916 7323,12916 7323,13126 7113,13126 "/>
+   <polygon class="fil16" points="3354,8595 3564,8595 3564,8805 3354,8805 "/>
+   <g style="clip-path:url(#id31)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str18" points="3354,8595 3564,8595 3564,8805 3354,8805 "/>
+   <polygon class="fil16" points="3354,8067 3564,8067 3564,8276 3354,8276 "/>
+   <g style="clip-path:url(#id32)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str19" points="3354,8067 3564,8067 3564,8276 3354,8276 "/>
+   <polygon class="fil16" points="3354,7538 3564,7538 3564,7748 3354,7748 "/>
+   <g style="clip-path:url(#id33)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str20" points="3354,7538 3564,7538 3564,7748 3354,7748 "/>
+   <polygon class="fil16" points="3354,7010 3564,7010 3564,7220 3354,7220 "/>
+   <g style="clip-path:url(#id34)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str21" points="3354,7010 3564,7010 3564,7220 3354,7220 "/>
+   <polygon class="fil16" points="3354,6482 3564,6482 3564,6691 3354,6691 "/>
+   <g style="clip-path:url(#id35)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str22" points="3354,6482 3564,6482 3564,6691 3354,6691 "/>
+   <polygon class="fil16" points="3354,5953 3564,5953 3564,6163 3354,6163 "/>
+   <g style="clip-path:url(#id36)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str23" points="3354,5953 3564,5953 3564,6163 3354,6163 "/>
+   <polygon class="fil13" points="7113,12458 7323,12458 7323,12668 7113,12668 "/>
+   <g style="clip-path:url(#id37)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str24" points="7113,12458 7323,12458 7323,12668 7113,12668 "/>
+   <polygon class="fil13" points="7113,12000 7323,12000 7323,12209 7113,12209 "/>
+   <g style="clip-path:url(#id38)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str25" points="7113,12000 7323,12000 7323,12209 7113,12209 "/>
+   <polygon class="fil13" points="7113,11504 7323,11504 7323,11713 7113,11713 "/>
+   <g style="clip-path:url(#id39)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str26" points="7113,11504 7323,11504 7323,11713 7113,11713 "/>
+   <polygon class="fil13" points="7113,11045 7323,11045 7323,11255 7113,11255 "/>
+   <g style="clip-path:url(#id40)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str27" points="7113,11045 7323,11045 7323,11255 7113,11255 "/>
+   <polygon class="fil13" points="7113,10587 7323,10587 7323,10797 7113,10797 "/>
+   <g style="clip-path:url(#id41)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str28" points="7113,10587 7323,10587 7323,10797 7113,10797 "/>
+   <polygon class="fil13" points="6633,10129 6843,10129 6843,10339 6633,10339 "/>
+   <g style="clip-path:url(#id42)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str29" points="6633,10129 6843,10129 6843,10339 6633,10339 "/>
+   <polygon class="fil13" points="6633,9569 6843,9569 6843,9779 6633,9779 "/>
+   <g style="clip-path:url(#id43)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str30" points="6633,9569 6843,9569 6843,9779 6633,9779 "/>
+   <polygon class="fil13" points="6633,9009 6843,9009 6843,9219 6633,9219 "/>
+   <g style="clip-path:url(#id44)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str31" points="6633,9009 6843,9009 6843,9219 6633,9219 "/>
+   <polygon class="fil13" points="6633,8450 6843,8450 6843,8660 6633,8660 "/>
+   <g style="clip-path:url(#id45)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str32" points="6633,8450 6843,8450 6843,8660 6633,8660 "/>
+   <polygon class="fil13" points="6633,7890 6843,7890 6843,8100 6633,8100 "/>
+   <g style="clip-path:url(#id46)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str33" points="6633,7890 6843,7890 6843,8100 6633,8100 "/>
+   <polygon class="fil13" points="6633,7330 6843,7330 6843,7540 6633,7540 "/>
+   <g style="clip-path:url(#id47)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str34" points="6633,7330 6843,7330 6843,7540 6633,7540 "/>
+   <polygon class="fil13" points="6633,6771 6843,6771 6843,6980 6633,6980 "/>
+   <g style="clip-path:url(#id48)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str35" points="6633,6771 6843,6771 6843,6980 6633,6980 "/>
+   <polygon class="fil13" points="6633,6211 6843,6211 6843,6421 6633,6421 "/>
+   <g style="clip-path:url(#id49)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str36" points="6633,6211 6843,6211 6843,6421 6633,6421 "/>
+   <polygon class="fil13" points="9813,8754 10023,8754 10023,8964 9813,8964 "/>
+   <g style="clip-path:url(#id50)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str37" points="9813,8754 10023,8754 10023,8964 9813,8964 "/>
+   <polygon class="fil13" points="9813,8296 10023,8296 10023,8505 9813,8505 "/>
+   <g style="clip-path:url(#id51)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str38" points="9813,8296 10023,8296 10023,8505 9813,8505 "/>
+   <polygon class="fil13" points="9813,7800 10023,7800 10023,8009 9813,8009 "/>
+   <g style="clip-path:url(#id52)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str39" points="9813,7800 10023,7800 10023,8009 9813,8009 "/>
+   <polygon class="fil13" points="9813,7341 10023,7341 10023,7551 9813,7551 "/>
+   <g style="clip-path:url(#id53)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str40" points="9813,7341 10023,7341 10023,7551 9813,7551 "/>
+   <polygon class="fil13" points="9813,6883 10023,6883 10023,7093 9813,7093 "/>
+   <g style="clip-path:url(#id54)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str41" points="9813,6883 10023,6883 10023,7093 9813,7093 "/>
+   <polygon class="fil13" points="9813,6425 10023,6425 10023,6635 9813,6635 "/>
+   <g style="clip-path:url(#id55)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str42" points="9813,6425 10023,6425 10023,6635 9813,6635 "/>
+   <polygon class="fil13" points="7767,13833 7977,13833 7977,14043 7767,14043 "/>
+   <g style="clip-path:url(#id56)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str43" points="7767,13833 7977,13833 7977,14043 7767,14043 "/>
+   <polygon class="fil13" points="7767,13375 7977,13375 7977,13584 7767,13584 "/>
+   <g style="clip-path:url(#id57)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str44" points="7767,13375 7977,13375 7977,13584 7767,13584 "/>
+   <polygon class="fil13" points="7767,12916 7977,12916 7977,13126 7767,13126 "/>
+   <g style="clip-path:url(#id58)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str45" points="7767,12916 7977,12916 7977,13126 7767,13126 "/>
+   <polygon class="fil13" points="7767,12458 7977,12458 7977,12668 7767,12668 "/>
+   <g style="clip-path:url(#id59)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str46" points="7767,12458 7977,12458 7977,12668 7767,12668 "/>
+   <polygon class="fil13" points="7767,12000 7977,12000 7977,12209 7767,12209 "/>
+   <g style="clip-path:url(#id60)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str47" points="7767,12000 7977,12000 7977,12209 7767,12209 "/>
+   <polygon class="fil13" points="7767,11504 7977,11504 7977,11713 7767,11713 "/>
+   <g style="clip-path:url(#id61)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str48" points="7767,11504 7977,11504 7977,11713 7767,11713 "/>
+   <polygon class="fil13" points="5951,10272 6161,10272 6161,10482 5951,10482 "/>
+   <g style="clip-path:url(#id62)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str49" points="5951,10272 6161,10272 6161,10482 5951,10482 "/>
+   <polygon class="fil13" points="5951,9814 6161,9814 6161,10023 5951,10023 "/>
+   <g style="clip-path:url(#id63)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str50" points="5951,9814 6161,9814 6161,10023 5951,10023 "/>
+   <polygon class="fil13" points="5951,9355 6161,9355 6161,9565 5951,9565 "/>
+   <g style="clip-path:url(#id64)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str51" points="5951,9355 6161,9355 6161,9565 5951,9565 "/>
+   <polygon class="fil13" points="5951,8859 6161,8859 6161,9069 5951,9069 "/>
+   <g style="clip-path:url(#id65)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str52" points="5951,8859 6161,8859 6161,9069 5951,9069 "/>
+   <polygon class="fil13" points="5951,8401 6161,8401 6161,8611 5951,8611 "/>
+   <g style="clip-path:url(#id66)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str53" points="5951,8401 6161,8401 6161,8611 5951,8611 "/>
+   <polygon class="fil13" points="5951,7943 6161,7943 6161,8153 5951,8153 "/>
+   <g style="clip-path:url(#id67)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str54" points="5951,7943 6161,7943 6161,8153 5951,8153 "/>
+   <polygon class="fil13" points="5951,7484 6161,7484 6161,7694 5951,7694 "/>
+   <g style="clip-path:url(#id68)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str55" points="5951,7484 6161,7484 6161,7694 5951,7694 "/>
+   <polygon class="fil13" points="5951,7026 6161,7026 6161,7236 5951,7236 "/>
+   <g style="clip-path:url(#id69)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str56" points="5951,7026 6161,7026 6161,7236 5951,7236 "/>
+   <polygon class="fil13" points="5951,6568 6161,6568 6161,6778 5951,6778 "/>
+   <g style="clip-path:url(#id70)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str57" points="5951,6568 6161,6568 6161,6778 5951,6778 "/>
+   <polygon class="fil13" points="5951,6110 6161,6110 6161,6319 5951,6319 "/>
+   <g style="clip-path:url(#id71)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str58" points="5951,6110 6161,6110 6161,6319 5951,6319 "/>
+   <polygon class="fil16" points="3354,11237 3564,11237 3564,11446 3354,11446 "/>
+   <g style="clip-path:url(#id72)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str59" points="3354,11237 3564,11237 3564,11446 3354,11446 "/>
+   <polygon class="fil16" points="3354,10708 3564,10708 3564,10918 3354,10918 "/>
+   <g style="clip-path:url(#id73)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str60" points="3354,10708 3564,10708 3564,10918 3354,10918 "/>
+   <polygon class="fil16" points="3354,10180 3564,10180 3564,10390 3354,10390 "/>
+   <g style="clip-path:url(#id74)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str61" points="3354,10180 3564,10180 3564,10390 3354,10390 "/>
+   <polygon class="fil16" points="3354,9652 3564,9652 3564,9861 3354,9861 "/>
+   <g style="clip-path:url(#id75)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str62" points="3354,9652 3564,9652 3564,9861 3354,9861 "/>
+   <polygon class="fil16" points="3354,9123 3564,9123 3564,9333 3354,9333 "/>
+   <g style="clip-path:url(#id76)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str63" points="3354,9123 3564,9123 3564,9333 3354,9333 "/>
+   <polygon class="fil16" points="4017,11710 4227,11710 4227,11920 4017,11920 "/>
+   <g style="clip-path:url(#id77)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2545 1040,-2545 1040,17339 11956,17339 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str64" points="4017,11710 4227,11710 4227,11920 4017,11920 "/>
+   <polygon class="fil16" points="4017,11252 4227,11252 4227,11462 4017,11462 "/>
+   <g style="clip-path:url(#id78)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2545 1040,-2545 1040,17339 11956,17339 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str65" points="4017,11252 4227,11252 4227,11462 4017,11462 "/>
+   <polygon class="fil16" points="4017,10756 4227,10756 4227,10966 4017,10966 "/>
+   <g style="clip-path:url(#id79)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2545 1040,-2545 1040,17339 11956,17339 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str66" points="4017,10756 4227,10756 4227,10966 4017,10966 "/>
+   <polygon class="fil16" points="4017,10298 4227,10298 4227,10508 4017,10508 "/>
+   <g style="clip-path:url(#id80)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2545 1040,-2545 1040,17339 11956,17339 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str67" points="4017,10298 4227,10298 4227,10508 4017,10508 "/>
+   <polygon class="fil17" points="4072,5784 4672,5784 4548,7188 4698,11200 4922,11201 4832,12811 3595,8528 3475,6648 "/>
+   <g style="clip-path:url(#id81)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str68" points="4072,5784 4672,5784 4548,7188 4698,11200 4922,11201 4832,12811 3595,8528 3475,6648 "/>
+   <polygon class="fil13" points="5019,12354 5229,12354 5229,12564 5019,12564 "/>
+   <g style="clip-path:url(#id82)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str69" points="5019,12354 5229,12354 5229,12564 5019,12564 "/>
+   <polygon class="fil13" points="5019,11896 5229,11896 5229,12105 5019,12105 "/>
+   <g style="clip-path:url(#id83)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str70" points="5019,11896 5229,11896 5229,12105 5019,12105 "/>
+   <polygon class="fil16" points="3690,5784 4072,5784 3475,6648 "/>
+   <g style="clip-path:url(#id84)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str71" points="3690,5784 4072,5784 3475,6648 "/>
+   <polygon class="fil13" points="7719,10909 7929,10909 7929,11118 7719,11118 "/>
+   <g style="clip-path:url(#id85)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str72" points="7719,10909 7929,10909 7929,11118 7719,11118 "/>
+   <polygon class="fil13" points="7719,10450 7929,10450 7929,10660 7719,10660 "/>
+   <g style="clip-path:url(#id86)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str73" points="7719,10450 7929,10450 7929,10660 7719,10660 "/>
+   <polygon class="fil13" points="7719,9992 7929,9992 7929,10202 7719,10202 "/>
+   <g style="clip-path:url(#id87)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str74" points="7719,9992 7929,9992 7929,10202 7719,10202 "/>
+   <polygon class="fil13" points="7719,9534 7929,9534 7929,9743 7719,9743 "/>
+   <g style="clip-path:url(#id88)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str75" points="7719,9534 7929,9534 7929,9743 7719,9743 "/>
+   <polygon class="fil13" points="7719,9075 7929,9075 7929,9285 7719,9285 "/>
+   <g style="clip-path:url(#id89)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str76" points="7719,9075 7929,9075 7929,9285 7719,9285 "/>
+   <polygon class="fil13" points="7719,8579 7929,8579 7929,8789 7719,8789 "/>
+   <g style="clip-path:url(#id90)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str77" points="7719,8579 7929,8579 7929,8789 7719,8789 "/>
+   <polygon class="fil13" points="7719,8121 7929,8121 7929,8331 7719,8331 "/>
+   <g style="clip-path:url(#id91)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str78" points="7719,8121 7929,8121 7929,8331 7719,8331 "/>
+   <polygon class="fil13" points="7719,7663 7929,7663 7929,7873 7719,7873 "/>
+   <g style="clip-path:url(#id92)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str79" points="7719,7663 7929,7663 7929,7873 7719,7873 "/>
+   <polygon class="fil13" points="7719,7205 7929,7205 7929,7414 7719,7414 "/>
+   <g style="clip-path:url(#id93)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str80" points="7719,7205 7929,7205 7929,7414 7719,7414 "/>
+   <polygon class="fil13" points="7719,6746 7929,6746 7929,6956 7719,6956 "/>
+   <g style="clip-path:url(#id94)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str81" points="7719,6746 7929,6746 7929,6956 7719,6956 "/>
+   <polygon class="fil13" points="7719,6288 7929,6288 7929,6498 7719,6498 "/>
+   <g style="clip-path:url(#id95)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str82" points="7719,6288 7929,6288 7929,6498 7719,6498 "/>
+   <polygon class="fil13" points="8517,9314 8726,9314 8726,9523 8517,9523 "/>
+   <g style="clip-path:url(#id96)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str83" points="8517,9314 8726,9314 8726,9523 8517,9523 "/>
+   <polygon class="fil13" points="8517,8818 8726,8818 8726,9027 8517,9027 "/>
+   <g style="clip-path:url(#id97)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str84" points="8517,8818 8726,8818 8726,9027 8517,9027 "/>
+   <polygon class="fil13" points="8517,8359 8726,8359 8726,8569 8517,8569 "/>
+   <g style="clip-path:url(#id98)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str85" points="8517,8359 8726,8359 8726,8569 8517,8569 "/>
+   <polygon class="fil13" points="8517,7901 8726,7901 8726,8111 8517,8111 "/>
+   <g style="clip-path:url(#id99)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str86" points="8517,7901 8726,7901 8726,8111 8517,8111 "/>
+   <polygon class="fil13" points="8517,7443 8726,7443 8726,7652 8517,7652 "/>
+   <g style="clip-path:url(#id100)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str87" points="8517,7443 8726,7443 8726,7652 8517,7652 "/>
+   <polygon class="fil13" points="8517,6984 8726,6984 8726,7194 8517,7194 "/>
+   <g style="clip-path:url(#id101)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str88" points="8517,6984 8726,6984 8726,7194 8517,7194 "/>
+   <polygon class="fil13" points="8517,6526 8726,6526 8726,6736 8517,6736 "/>
+   <g style="clip-path:url(#id102)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str89" points="8517,6526 8726,6526 8726,6736 8517,6736 "/>
+   <polygon class="fil13" points="8517,6068 8726,6068 8726,6278 8517,6278 "/>
+   <g style="clip-path:url(#id103)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str90" points="8517,6068 8726,6068 8726,6278 8517,6278 "/>
+   <polygon class="fil13" points="9014,8818 9224,8818 9224,9027 9014,9027 "/>
+   <g style="clip-path:url(#id104)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str91" points="9014,8818 9224,8818 9224,9027 9014,9027 "/>
+   <polygon class="fil13" points="9014,8359 9224,8359 9224,8569 9014,8569 "/>
+   <g style="clip-path:url(#id105)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str92" points="9014,8359 9224,8359 9224,8569 9014,8569 "/>
+   <polygon class="fil13" points="9014,7901 9224,7901 9224,8111 9014,8111 "/>
+   <g style="clip-path:url(#id106)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str93" points="9014,7901 9224,7901 9224,8111 9014,8111 "/>
+   <polygon class="fil13" points="9014,7443 9224,7443 9224,7652 9014,7652 "/>
+   <g style="clip-path:url(#id107)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str94" points="9014,7443 9224,7443 9224,7652 9014,7652 "/>
+   <polygon class="fil13" points="9014,6984 9224,6984 9224,7194 9014,7194 "/>
+   <g style="clip-path:url(#id108)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str95" points="9014,6984 9224,6984 9224,7194 9014,7194 "/>
+   <polygon class="fil13" points="9014,6526 9224,6526 9224,6736 9014,6736 "/>
+   <g style="clip-path:url(#id109)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str96" points="9014,6526 9224,6526 9224,6736 9014,6736 "/>
+   <polygon class="fil13" points="9014,6068 9224,6068 9224,6278 9014,6278 "/>
+   <g style="clip-path:url(#id110)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str97" points="9014,6068 9224,6068 9224,6278 9014,6278 "/>
+   <polygon class="fil13" points="5782,14644 5991,14644 5991,14854 5782,14854 "/>
+   <g style="clip-path:url(#id111)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str98" points="5782,14644 5991,14644 5991,14854 5782,14854 "/>
+   <polygon class="fil13" points="5001,6219 5210,6219 5210,6428 5001,6428 "/>
+   <g style="clip-path:url(#id112)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str99" points="5001,6219 5210,6219 5210,6428 5001,6428 "/>
+   <polygon class="fil13" points="5782,14070 5991,14070 5991,14280 5782,14280 "/>
+   <g style="clip-path:url(#id113)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str100" points="5782,14070 5991,14070 5991,14280 5782,14280 "/>
+   <polygon class="fil13" points="5782,13496 5991,13496 5991,13706 5782,13706 "/>
+   <g style="clip-path:url(#id114)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str101" points="5782,13496 5991,13496 5991,13706 5782,13706 "/>
+   <polygon class="fil13" points="5782,12922 5991,12922 5991,13132 5782,13132 "/>
+   <g style="clip-path:url(#id115)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str102" points="5782,12922 5991,12922 5991,13132 5782,13132 "/>
+   <polygon class="fil13" points="5782,12348 5991,12348 5991,12558 5782,12558 "/>
+   <g style="clip-path:url(#id116)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str103" points="5782,12348 5991,12348 5991,12558 5782,12558 "/>
+   <polygon class="fil13" points="5782,11774 5991,11774 5991,11984 5782,11984 "/>
+   <g style="clip-path:url(#id117)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str104" points="5782,11774 5991,11774 5991,11984 5782,11984 "/>
+   <polygon class="fil13" points="5782,11200 5991,11200 5991,11410 5782,11410 "/>
+   <g style="clip-path:url(#id118)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str105" points="5782,11200 5991,11200 5991,11410 5782,11410 "/>
+   <polygon class="fil13" points="5001,9006 5210,9006 5210,9216 5001,9216 "/>
+   <g style="clip-path:url(#id119)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str106" points="5001,9006 5210,9006 5210,9216 5001,9216 "/>
+   <polygon class="fil13" points="5001,8548 5210,8548 5210,8757 5001,8757 "/>
+   <g style="clip-path:url(#id120)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str107" points="5001,8548 5210,8548 5210,8757 5001,8757 "/>
+   <polygon class="fil13" points="5001,8089 5210,8089 5210,8299 5001,8299 "/>
+   <g style="clip-path:url(#id121)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str108" points="5001,8089 5210,8089 5210,8299 5001,8299 "/>
+   <polygon class="fil13" points="5001,7593 5210,7593 5210,7803 5001,7803 "/>
+   <g style="clip-path:url(#id122)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str109" points="5001,7593 5210,7593 5210,7803 5001,7803 "/>
+   <polygon class="fil13" points="5001,7135 5210,7135 5210,7345 5001,7345 "/>
+   <g style="clip-path:url(#id123)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str110" points="5001,7135 5210,7135 5210,7345 5001,7345 "/>
+   <polygon class="fil13" points="5001,6677 5210,6677 5210,6887 5001,6887 "/>
+   <g style="clip-path:url(#id124)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str111" points="5001,6677 5210,6677 5210,6887 5001,6887 "/>
+   <polygon class="fil16" points="4672,5784 5588,5784 4548,7188 "/>
+   <g style="clip-path:url(#id125)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str112" points="4672,5784 5588,5784 4548,7188 "/>
+   <polygon class="fil13" points="5001,10880 5210,10880 5210,11090 5001,11090 "/>
+   <g style="clip-path:url(#id126)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str113" points="5001,10880 5210,10880 5210,11090 5001,11090 "/>
+   <polygon class="fil13" points="5001,10422 5210,10422 5210,10632 5001,10632 "/>
+   <g style="clip-path:url(#id127)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str114" points="5001,10422 5210,10422 5210,10632 5001,10632 "/>
+   <polygon class="fil13" points="5001,9964 5210,9964 5210,10173 5001,10173 "/>
+   <g style="clip-path:url(#id128)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str115" points="5001,9964 5210,9964 5210,10173 5001,10173 "/>
+   <polygon class="fil13" points="5001,9468 5210,9468 5210,9677 5001,9677 "/>
+   <g style="clip-path:url(#id129)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str116" points="5001,9468 5210,9468 5210,9677 5001,9677 "/>
+   <polygon class="fil13" points="5023,11437 5232,11437 5232,11647 5023,11647 "/>
+   <g style="clip-path:url(#id130)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str117" points="5023,11437 5232,11437 5232,11647 5023,11647 "/>
+   <polygon class="fil16" points="2826,5953 3036,5953 3036,6163 2826,6163 "/>
+   <g style="clip-path:url(#id131)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str118" points="2826,5953 3036,5953 3036,6163 2826,6163 "/>
+   <polygon class="fil16" points="2826,8067 3036,8067 3036,8276 2826,8276 "/>
+   <g style="clip-path:url(#id132)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str119" points="2826,8067 3036,8067 3036,8276 2826,8276 "/>
+   <polygon class="fil16" points="2826,7538 3036,7538 3036,7748 2826,7748 "/>
+   <g style="clip-path:url(#id133)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str120" points="2826,7538 3036,7538 3036,7748 2826,7748 "/>
+   <polygon class="fil16" points="2826,7010 3036,7010 3036,7220 2826,7220 "/>
+   <g style="clip-path:url(#id134)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str121" points="2826,7010 3036,7010 3036,7220 2826,7220 "/>
+   <polygon class="fil16" points="2826,6482 3036,6482 3036,6691 2826,6691 "/>
+   <g style="clip-path:url(#id135)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str122" points="2826,6482 3036,6482 3036,6691 2826,6691 "/>
+   <polygon class="fil13" points="6348,12814 6558,12814 6558,13024 6348,13024 "/>
+   <g style="clip-path:url(#id136)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str123" points="6348,12814 6558,12814 6558,13024 6348,13024 "/>
+   <polygon class="fil13" points="6348,12241 6558,12241 6558,12451 6348,12451 "/>
+   <g style="clip-path:url(#id137)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str124" points="6348,12241 6558,12241 6558,12451 6348,12451 "/>
+   <polygon class="fil13" points="6348,11668 6558,11668 6558,11878 6348,11878 "/>
+   <g style="clip-path:url(#id138)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str125" points="6348,11668 6558,11668 6558,11878 6348,11878 "/>
+   <polygon class="fil13" points="6344,11096 6554,11096 6554,11305 6344,11305 "/>
+   <g style="clip-path:url(#id139)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-2420 1040,-2420 1040,17464 11956,17464 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str126" points="6344,11096 6554,11096 6554,11305 6344,11305 "/>
+   <polygon class="fil16" points="2137,7729 2346,7729 2346,7939 2137,7939 "/>
+   <g style="clip-path:url(#id140)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="10739,-2758 -177,-2758 -177,17126 10739,17126 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str127" points="2137,7729 2346,7729 2346,7939 2137,7939 "/>
+   <polygon class="fil16" points="2137,7201 2346,7201 2346,7410 2137,7410 "/>
+   <g style="clip-path:url(#id141)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="10739,-2758 -177,-2758 -177,17126 10739,17126 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str128" points="2137,7201 2346,7201 2346,7410 2137,7410 "/>
+   <polygon class="fil16" points="2137,6672 2346,6672 2346,6882 2137,6882 "/>
+   <g style="clip-path:url(#id142)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="10739,-2758 -177,-2758 -177,17126 10739,17126 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str129" points="2137,6672 2346,6672 2346,6882 2137,6882 "/>
+   <polygon class="fil16" points="2137,6144 2346,6144 2346,6354 2137,6354 "/>
+   <g style="clip-path:url(#id143)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="10739,-2758 -177,-2758 -177,17126 10739,17126 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str130" points="2137,6144 2346,6144 2346,6354 2137,6354 "/>
+   <polygon class="fil16" points="1609,7729 1819,7729 1819,7939 1609,7939 "/>
+   <g style="clip-path:url(#id144)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="10739,-2758 -177,-2758 -177,17126 10739,17126 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str131" points="1609,7729 1819,7729 1819,7939 1609,7939 "/>
+   <polygon class="fil16" points="1609,7201 1819,7201 1819,7410 1609,7410 "/>
+   <g style="clip-path:url(#id145)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="10739,-2758 -177,-2758 -177,17126 10739,17126 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str132" points="1609,7201 1819,7201 1819,7410 1609,7410 "/>
+   <polygon class="fil16" points="1609,6672 1819,6672 1819,6882 1609,6882 "/>
+   <g style="clip-path:url(#id146)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="10739,-2758 -177,-2758 -177,17126 10739,17126 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str133" points="1609,6672 1819,6672 1819,6882 1609,6882 "/>
+   <polygon class="fil16" points="1609,6144 1819,6144 1819,6354 1609,6354 "/>
+   <g style="clip-path:url(#id147)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="10739,-2758 -177,-2758 -177,17126 10739,17126 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str134" points="1609,6144 1819,6144 1819,6354 1609,6354 "/>
+   <polygon class="fil16" points="3354,11693 3564,11693 3564,11903 3354,11903 "/>
+   <g style="clip-path:url(#id148)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="11956,-1964 1040,-1964 1040,17920 11956,17920 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str135" points="3354,11693 3564,11693 3564,11903 3354,11903 "/>
+   <polygon class="fil16" points="4227,12371 4436,12371 4436,12581 4227,12581 "/>
+   <g style="clip-path:url(#id149)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="12166,-1884 1250,-1884 1250,18000 12166,18000 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str136" points="4227,12371 4436,12371 4436,12581 4227,12581 "/>
+   <polygon class="fil16" points="3564,12354 3773,12354 3773,12564 3564,12564 "/>
+   <g style="clip-path:url(#id150)">
+    <g>
+     <polygon id="1" class="fil1 str0" points="12166,-1303 1250,-1303 1250,18581 12166,18581 "/>
+    </g>
+   </g>
+   <polygon class="fil15 str137" points="3564,12354 3773,12354 3773,12564 3564,12564 "/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,57 @@
+    
+<div class="container-fluid">
+        
+    <div style="padding: 2%;"><a style="color: black;" href="#!/{{hereFrom}}"><i class="fa fa-arrow-left fa-3x"></i></a></div>
+    <div class="row">
+                  
+            <div class="col-md-9">
+                <div class="container" id="" style=" padding: 0px;" > 
+                        <h1>{{CompetitionName}}</h1>
+                    <div ng-repeat="section in sections">
+                        <div class="details" ng-show="getActiveSection($index)" ng-include="getSrc($index)">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="col-md-1"></div> -->
+              <div class="col-md-3">
+              <br><br>
+                <div class="list-group" >
+                     <a class="list-group-item"    ng-repeat="section in sections" ng-click="setActiveSection($index)" ng-class="isActive($index)" >{{ section.name }}</a>
+                   <!--  <a href="#" class="list-group-item">Category 2</a>
+                    <a href="#" class="list-group-item">Category 3</a> -->
+                </div>
+            </div>
+    </div>
+    <hr>
+    <hr>
+    <hr>
+</div>
+<hr>
+<hr>
+<hr>
+
+
+
+
+
+<!-- <div id="pills-container"  class=" pull-right" ng-class="" >
+       
+       <ul class="nav nav-pills  nav-stacked ">
+   
+   <li ng-repeat="section in sections" role="presentation"  style="cursor: pointer;">
+                    <a  ng-click="setActiveSection($index)">{{ section.name }}</a>
+                </li>
+</ul>
+    </div>
+
+    <div class="container" id="competitionDetails" style=""> 
+    <h1>{{CompetitionName}}</h1>
+    	<div ng-repeat="section in sections">
+    		<div class="details" ng-show="getActiveSection($index)" ng-include="getSrc($index)">
+    			
+    		</div>
+    	</div>
+    </div> -->
+

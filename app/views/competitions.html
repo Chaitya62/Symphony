@@ -1,0 +1,15 @@
+<div  style="">
+		<div class="" style="margin-top: 0%; margin-left: 2%;">
+			
+ 		<a  ng-href="#!/competitionDetails" style="text-decoration: none; outline: 0;">
+			<div  ng-repeat="competition in competitions" style="background-image: url('images/{{competition.src}}'); background-size: cover;"  class="wow flipInY competition" ng-click="setEventData($index)" >
+					
+				<span  ng-click="setEventData($index)"><p style="line-height: 20px; font-size:15px;">{{competition.tag}}</p>{{competition.name}}</span>
+					
+			</div>
+		</a>
+		
+
+		</div>
+
+</div>

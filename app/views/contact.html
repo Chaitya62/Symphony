@@ -1,0 +1,96 @@
+ <style>
+  #octeam ul{
+    list-style: none;
+  margin: 0;
+  padding: 0;
+  }
+  #octeam li{
+    display: inline-block;
+    padding: 10px;
+  }
+  textarea{
+    color: gray;
+  }
+</style>
+ <h1 style="text-align: center; margin-bottom: 0px;">Team Symphony
+ </h1>
+ <div style="width: 100%; text-align: center; display: inline-block;"> <hr width="15%";  style="margin: 0px;  border-radius: 50px; height: 4px;display: inline-block; background: black;" >
+</div>
+      <h2 style="text-align: center; font-size: 20px;">Organising Committee</h2>
+<div class="container-fluid"><!--OC k photo start-->
+  <div class="row">
+    <div class="col-md-1 col-xs-12 col-lg-2"></div>
+    <div class="col-md-10 col-xs-12 col-lg-8" id="octeam">
+      <ul style="text-align: center;">
+      <li ng-repeat="member in members" style="text-align: center; font-size: 15px;">
+          <div>
+            <img src="{{member.src}}" alt="{{member.name}}">
+          </div>
+        {{member.name}}
+        </li>
+     
+     
+      </ul>
+      </div>
+    <div class="col-md-1 col-xs-12 col-lg-2"></div>
+  </div>
+</div>
+
+<!--OC k photo end -->
+<!--Other teams end-->
+<div class="container"><!--Form ka start. Dont give any border -->
+<div style="width: 100%; text-align: center; display: inline-block;"> <hr width="10%";  style="margin: 0px;  border-radius: 50px; height: 4px;display: inline-block; background: black;" >
+</div>
+<h3 style="text-align: center; margin-bottom:0px; margin-top: 10px;">Contact Form</h3>
+<div style="width: 100%; text-align: center; display: inline-block;"> <hr width="10%";  style="margin: 0px;  border-radius: 50px; height: 4px;display: inline-block; background: black;" >
+</div>
+<br>
+<br>
+  <div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-5 col-xs-12" style="text-align: center; padding: 0px">
+      <input type="text" name="name"  placeholder="Name" style="width: 95%;" > <br><br>
+       <!-- <label for="email"> Email: </label> --> <input type="email" name="email" placeholder="Email"  style="width: 95%;" ><br><br>
+    </div>
+    <div class="col-md-5 col-xs-12" style="text-align: center; padding: 0px">
+     <!-- <label for="college"> College:  </label> --> <input type="text" name="college" placeholder="College"  style="width: 95%;"> <br><br>
+       <!-- <label for="contact"> Contact: </label> --> <input type="value" name="contact"  minlength="10" maxlength="11"  placeholder="Contact" style="width: 95%;" ><br><br>
+    </div>
+    <div class="col-md-1"></div>
+  </div>
+</div>
+<!-- <div class="col-md-1 col-lg-2"></div>
+    <div class="col-md-5 col-lg-4 col-sm-12 col-xs-12">
+      <form >
+        Name :  <input type="text" name="name"  /> <br><br>
+        E-mail :  <input type="email" name="email" ><br><br>
+    </div>
+    <div class="col-md-5 col-lg-4 col-sm-12 col-xs-12">
+        College :  <input type="text" name="college" /> <br><br>
+        Contact :  <input type="value" name="contact"  minlength="10" maxlength="11" /><br><br>
+    </div>
+    <div class="col-md-1 col-lg-2"></div> -->
+<p style="text-align: center;">
+  <textarea name="query" rows="10" cols="40" placeholder="Query" style="width: 53%;"></textarea>
+</p>
+<p style="text-align: center;"><input type="submit" value="Submit"></p><!--Form ka end -->
+<p style="text-align: center; "><!--Links to social media -->
+
+    <a href="https://www.facebook.com/KJSCESYMPHONY/" target="_blank">
+    <i id="social-fb" class="fa fa-facebook-square fa-3x social"></i>
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/kjsceskream/" target="_blank"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i>
+    </a> &nbsp;&nbsp;&nbsp;
+    <a href="https://youtube.com/kjsceslive/" target="_blank"><i id="social-gp" class="fa fa-youtube-play fa-3x social"></i>
+    </a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/kjscelive/" target="_blank"><i id="social-em" class="fa fa-instagram fa-3x social"></i>
+    </a> 
+  
+</p><!--End od links-->
+
+<hr>
+<hr>
+<hr>
+<hr>
+
+

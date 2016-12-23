@@ -1,0 +1,44 @@
+<div class="container-fluid" style="background-color:white;">
+	 <uib-tabset active="active ">
+    <uib-tab index="0" heading="2017">
+    	<div class="container-fluid sponsors">
+    			<div class="row">
+	    					<div ng-repeat="sponsor in sponsor_2017" ng-class="getClass($index)" class="col-xs-12 col-md-4 col-lg-4">
+	    	<p>{{sponsor.name}}</p>
+	    	<a href=""><img src="{{sponsor.src}}" alt="" class="img-responsive" /></a>
+	    </div>
+
+    				</div>
+    				<br>	
+    				<!-- <h2  style="text-align: center;">Other Partners</h2>
+    				<div class="row">
+    					<div class="col-md-3 col-lg-3 col-xs-12 otherSponsors">
+    						<img src="images/antakshari.jpg" alt="" class="img-responsive">
+    					</div>
+    				</div> -->
+    			</div>
+
+
+    	
+    </uib-tab>
+    <uib-tab index="1" heading="2016">
+    	<div class="container-fluid sponsors">
+    		<div class="row">
+    			<div ng-repeat="sponsor in sponsor_2016" ng-class="getClass($index)" class="col-xs-12 col-md-4 col-lg-4">
+	    	<p>{{sponsor.name}}</p>
+	    	<a href=""><img src="{{sponsor.src}}" alt="" class="img-responsive" /></a>
+	    </div>
+    		</div>
+			<hr>
+			<h2 style="text-align: center;">Other Partners</h2>
+			<div class="row otherSponsors">
+				<div ng-repeat="other in others_2016" class="wow fadeIn col-md-3 col-lg-3 col-xs-12">
+					<img src="{{other}}" alt="" class="img-responsive">
+				</div>
+    		</div>
+		</div>
+ 	</uib-tab>
+ </uib-tabset>
+</div>
+
+

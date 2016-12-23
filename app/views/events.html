@@ -1,0 +1,60 @@
+<div class="container-fluid" style="background-image: url('images/alleventsbg.png'); background-size: cover;">
+    <div class="row">
+                  
+             <div class=" hidden-md hidden-lg col-md-3">
+              <br><br>
+                <div class="list-group" >
+                     <a class="list-group-item"   ng-repeat="section in sections" ng-click="setActiveEvent($index)" ng-class="isActive($index)" >{{ section.name }}</a>
+                   <!--  <a href="#" class="list-group-item">Category 2</a>
+                    <a href="#" class="list-group-item">Category 3</a> -->
+                </div>
+            </div>
+            <div class="col-md-9">
+               
+                        <h1>{{CompetitionName}}</h1>
+                    <div style="" class="eventContent" ng-hide="" ng-include="currentEvent()">
+                    </div>
+              
+            </div>
+            <!-- <div class="col-md-1"></div> -->
+              <div class=" hidden-sm hidden-xs col-md-3">
+              <br><br>
+                <div class="list-group" >
+                     <a class="list-group-item"   ng-repeat="section in sections" ng-click="setActiveEvent($index)" ng-class="isActive($index)" >{{ section.name }}</a>
+                   <!--  <a href="#" class="list-group-item">Category 2</a>
+                    <a href="#" class="list-group-item">Category 3</a> -->
+                </div>
+            </div>
+    </div>
+</div>
+<hr>
+<hr>
+<hr>
+
+
+<!-- <div id="pills-container"  class=" pull-right" ng-class="" >
+       
+       <ul class="nav nav-pills  nav-stacked ">
+   
+   <li ng-repeat="section in sections"   style="cursor: pointer;">
+                    <a   ng-click="setActiveEvent($index)">{{ section.name }}</a>
+                </li>
+</ul>
+    </div>
+
+    
+  		
+</div>
+
+	
+</div>
+ -->
+
+
+<!-- <nav class="navbar navbar-inverse navbar-fixed-right" id="sidebar-wrapper" role="navigation">
+            <ul class="nav sidebar-nav">
+            
+               
+               
+            </ul>
+        </nav> -->
