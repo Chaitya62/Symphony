@@ -1,6 +1,10 @@
 <div id="wrapper"  class="" ng-class="getNavStatus()">
        <nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
+            
+            
+            
             <ul class="nav sidebar-nav">
+                <img src="images/Symphony.png" alt="" class="img-responsive" style="padding: 10%;">
             
                 <li ng-repeat="section in sections" ng-click="toggleNav()">
                     <a ng-href="{{section.url}}"   target= "{{section.target}}"  >{{ section.name }}</a>
@@ -13,12 +17,12 @@
     <div class="overlay" ng-class="getOverlayStatus()" ng-click="toggleNav()"></div>
 
     <nav  class="ham-bg nav-footer" style="text-align: center;">
-      <div class="">
-        <span ng-click="toggleNav()" class=" fa fa-bars fa-2x " style="color: white; outline: 0; position: absolute; left: 10px;margin-top: -0.5%;"> 
+      <div class="" style="display: table;">
+        <span ng-click="toggleNav()" class=" fa fa-bars fa-2x " style="color: white; outline: 0; position: absolute; left: 10px;"> 
         </span>
-        <a href="#!/">
-        <img src="images/symphony_navbar.png" alt="" style="height: 4.5vh; vertical-align: middle; width: auto; display: inline-block;margin-top: -5px; margin-right:-2%:">
-        </a>
+        <div  style="display: table-cell; ,min-height: 100%;width: 100%; text-align: center; vertical-align: middle;">
+        <a href="#!/"><img src="images/symphony_navbar.png" class="nav-logo" alt="" style="display:inline-block;height: 4.5vh; width: auto;"></a>
+        </div>
         <span class="current-section">{{getCurrentSection()}}</span>
       </div>
     </nav>

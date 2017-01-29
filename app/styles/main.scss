@@ -176,11 +176,14 @@ $sidenavBg:#96C881;
 .current-section{
   position: relative;
   float: right;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
   font-family: 'Arciform',sans-serif;
   padding: 5px;
   display: inline-block;
   margin-top: -1%;
-  font-size: 18px;
+  font-size: 23px;
 }
 
 /*-------------------------------*/
@@ -193,7 +196,7 @@ $sidenavBg:#96C881;
   font-weight: normal !important;
   font-style: normal;
   padding: 0;
-  margin-top: 100px;
+  //margin-top: 100px;
   position: absolute;
   top: 0;
   width: 220px;
@@ -291,6 +294,11 @@ $sidenavBg:#96C881;
   background-color: rgba(0, 0, 0, 0.4);
   z-index: 3;
 }
+
+
+#query{
+  width:80%;
+}
 /* SOME DEMO STYLES - NOT REQUIRED */
 
 
@@ -341,9 +349,12 @@ nav{
   right: 0;
 }
 .nav-footer{
-  padding: 1%;
+  padding: 0.5%;
 }
 
+hr{
+  color: white;
+}
 //TEST
 // MIXINS 
 @mixin transform($val) {
@@ -950,13 +961,23 @@ section .section-overlay{
 .dream{
   display: table; 
   width: 100%; 
+  background: #eee;
   min-height: 100%;
+  color: white;
+  h1.odessy{
+    font-size: 55px;
+    margin-top: 15%;
 
-  p{
+  }
+  .section-text{
+    padding: 10%;
     display: table-cell; 
     text-align: center; 
     vertical-align: middle; 
-    font-size: 100px;
+    h1{
+      margin-top: 10%;
+      text-align: center;
+    }
    
   }
 }
@@ -967,16 +988,43 @@ section .section-overlay{
     max-width:100%;
     height: initial;
   }
+    .odessy{
+    margin-top: 15%;
+  }
+  .section-text{
+    font-size: 35px;
+  }
+
 }
 
 
+
+@media (min-width: 1440px) {
+  .video {
+    width: 100vw;
+    max-width:100%;
+    height: initial;
+  }
+  .odessy{
+    margin-top: 15%;
+  }
+}
+  
+
 @media (max-width: 1064px) {
+  .section-text{
+    font-size: 20px;
+  }
   .panel-header {
     padding: 30px 0;
+
   }
-  .dream p{
-    font-size: 85px;
+    .odessy{
+    margin-top: 15%;
   }
+  // .dream {
+  //   font-size: 85px;
+  // }
 }
 
 
@@ -984,18 +1032,21 @@ section .section-overlay{
   .panel-header {
     padding: 30px 0;
   }
-  .dream p{
-    font-size: 95px;
-  }
+  // .dream p{
+  //   font-size: 95px;
+  // }
 }
 @media (max-width: 992px) {
   .panel {
     min-height: initial;
   }
-  .dream p{
-    font-size: 85px;
+     .odessy{
+    margin-top: 15%;
+  }
+  // .dream p{
+  //   font-size: 85px;
   
-      }
+      //}
 }
 
 
@@ -1003,9 +1054,9 @@ section .section-overlay{
   .section-text {
     font-size: 12px;
   }
-  .dream p{
-    font-size: 65px;
-  }
+  // .dream p{
+  //   font-size: 65px;
+  // }
   #bulb-container{
   height: 60vh;
 }
@@ -1013,10 +1064,16 @@ section .section-overlay{
   height: 40vh;
   
 }
+   .odessy{
+    margin-top: 10%;
+  }
 }
 
 @media (max-width: 768px) {
 
+  #mobileContainer{
+    min-height: 150vh;
+  }
   .section-text {
     font-size: 10px;
     padding: 10px 5px;
@@ -1025,12 +1082,15 @@ section .section-overlay{
   .icon {
     height: 35px;
   }
-   .dream p{
-    font-size: 45px;
-  }
+  //  .dream p{
+  //   font-size: 45px;
+  // }
 
   #bulb-container{
     height: 50vh;
+  }
+     .odessy{
+    margin-top: 10%;
   }
 .bulb{
     height: 30vh;
@@ -1043,17 +1103,34 @@ section .section-overlay{
   .hide-xs {
     display: none;
   }
+  #query{
+    width: 100%;
+  }
   .shield{
   margin: 1% !important;
 }
-
+  
   .competition{
     margin: 1% !important;
     height: 130px;
     width: 130px;
   }
-   .dream p{
-    font-size: 35px;
+  .odessy{
+      font-size: 11px;
+  }
+     .odessy{
+    margin: 0%;
+  }
+  //  .dream p{
+  //   font-size: 30px;
+  //   display: block;
+  //   margin-top: 10%;
+  // }
+  .nav-logo{
+    margin-right: -25%;
+  }
+  #detailsContainer{
+    min-height: 120vh;
   }
 } 
 

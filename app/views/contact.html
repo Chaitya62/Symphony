@@ -12,28 +12,118 @@
     color: gray;
   }
 </style>
- <h1 style="text-align: center; margin-bottom: 0px;">Team Symphony
+             <style>
+.container-img {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+ 
+}
+
+.overlay-img {
+
+  position: absolute;
+  z-index: 1000;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #B2569A;
+  overflow: hidden;
+  width: 200%;
+  height: 0;
+  border-radius: 50% 50% 0 0;
+  transition: .5s ease;
+}
+
+.container-img:hover .overlay-img {
+  height: 40%;
+}
+
+.text {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.text a{
+  display: inline;
+}
+</style>
+ <div class="" style="background-image: url('images/contactbg.jpg')">
+   <h1 style="text-align: center; margin: 0px;">Team Symphony
  </h1>
  <div style="width: 100%; text-align: center; display: inline-block;"> <hr width="15%";  style="margin: 0px;  border-radius: 50px; height: 4px;display: inline-block; background: black;" >
 </div>
       <h2 style="text-align: center; font-size: 20px;">Organising Committee</h2>
 <div class="container-fluid"><!--OC k photo start-->
-  <div class="row">
+<div ng-repeat="team in teams" class="row">
+  <h4 style="text-align: center;">{{team.name}}</h4>
+  <div class="col-md-1 col-xs-12 col-lg-2"></div>
+  <div class="col-md-10 col-xs-12 col-lg-8" id="octeam">
+      <ul style="text-align: center;">
+      <div ng-repeat="member in team.members" href="{{member.link}}" style="display: inline;text-decoration: none;color: black;" target="_blank">
+
+
+        <li  style="text-align: center; font-size: 15px;">
+        <div class="container-img">
+  <img src="{{member.src}}" alt="{{member.name}}" class="image">
+  <div class="overlay-img">
+    <div class="text">
+      <a href="{{member.fb}}" target="_blank" style="color: white;"><i class="fa fa-facebook-official "></i></a>
+      <a href="{{member.link}}" target="_blank" style="color: white;"><i class="fa fa-linkedin-square "></i></a>
+    </div>
+  </div>
+  </div>  
+        
+        {{member.name}}
+        </li>
+  
+      </div>
+      </ul>
+      </div>
+  <div class="col-md-1 col-xs-12 col-lg-2"></div>
+</div> 
+  <!-- <div class="row">
     <div class="col-md-1 col-xs-12 col-lg-2"></div>
     <div class="col-md-10 col-xs-12 col-lg-8" id="octeam">
       <ul style="text-align: center;">
-      <li ng-repeat="member in members" style="text-align: center; font-size: 15px;">
+      <a ng-repeat="member in members" href="{{member.link}}" style="text-decoration: none;color: black;" target="_blank">
+        <li  style="text-align: center; font-size: 15px;">
           <div>
-            <img src="{{member.src}}" alt="{{member.name}}">
+            <img src="{{member.src}}" alt="{{member.name}}" />
           </div>
         {{member.name}}
         </li>
-     
-     
+      </a>
       </ul>
       </div>
     <div class="col-md-1 col-xs-12 col-lg-2"></div>
-  </div>
+  </div> -->
+ <!--  <div class="row">
+    <h4 style="text-align: center">Website Team</h4>
+     <div class="col-md-1 col-xs-12 col-lg-2"></div>
+    <div class="col-md-10 col-xs-12 col-lg-8" id="octeam">
+      <ul style="text-align: center;">
+      <a ng-repeat="member in members" href="{{member.link}}" style="text-decoration: none;color: black;" target="_blank">
+        <li  style="text-align: center; font-size: 15px;">
+          <div>
+            <img src="{{member.src}}" alt="{{member.name}}" />
+          </div>
+        {{member.name}}
+        </li>
+      </a>
+      </ul>
+      </div>
+    <div class="col-md-1 col-xs-12 col-lg-2"></div>
+
+  </div> -->
 </div>
 
 <!--OC k photo end -->
@@ -49,15 +139,28 @@
   <div class="row">
     <div class="col-md-1"></div>
     <div class="col-md-5 col-xs-12" style="text-align: center; padding: 0px">
-      <input type="text" name="name"  placeholder="Name" style="width: 95%;" > <br><br>
-       <!-- <label for="email"> Email: </label> --> <input type="email" name="email" placeholder="Email"  style="width: 95%;" ><br><br>
+      <input type="text" name="name" class="form-control"  placeholder="&nbsp;Name" style="width: 95%; display:inline"  ng-model="name"> <br><br>
+       <!-- <label for="email"> Email: </label> --> <input class="form-control" type="email" name="email" ng-model="id" placeholder="&nbsp;Email"  style="width: 95%; display:inline"  ><br><br>
     </div>
     <div class="col-md-5 col-xs-12" style="text-align: center; padding: 0px">
-     <!-- <label for="college"> College:  </label> --> <input type="text" name="college" placeholder="College"  style="width: 95%;"> <br><br>
-       <!-- <label for="contact"> Contact: </label> --> <input type="value" name="contact"  minlength="10" maxlength="11"  placeholder="Contact" style="width: 95%;" ><br><br>
+     <!-- <label for="college"> College:  </label> --> <input class="form-control" type="text" name="college" placeholder="&nbsp;College"  style="width: 95%; display:inline" ng-model="college"> <br><br>
+       <!-- <label for="contact"> Contact: </label> --> <input class="form-control" type="text" name="contact"   placeholder="&nbsp;Contact" style="width: 95%; display:inline" ng-model="number" ><br><br>
+    </div>
+    <div class="col-md-1"></div>
+    <div class="col-md-1"></div>
+    <div class="col-md-12 col-xs-12">
+      <p style="text-align: center;">
+  <textarea name="query" rows="10" id="query" class="form-control" cols="40" placeholder="Query" ng-model="query" style="width:80%;display: inline-block;"></textarea>
+</p>
     </div>
     <div class="col-md-1"></div>
   </div>
+  <div class="row"> 
+  <div class="col-md-1"></div>   
+  <div class="col-md-12 col-xs-12" style="text-align: center;">
+<p style="text-align: center;"><input class="btn btn-success" type="submit" value="Submit" ng-click="SubmitForm()"></p>
+</div> 
+<div class="col-md-1"></div>
 </div>
 <!-- <div class="col-md-1 col-lg-2"></div>
     <div class="col-md-5 col-lg-4 col-sm-12 col-xs-12">
@@ -68,29 +171,30 @@
     <div class="col-md-5 col-lg-4 col-sm-12 col-xs-12">
         College :  <input type="text" name="college" /> <br><br>
         Contact :  <input type="value" name="contact"  minlength="10" maxlength="11" /><br><br>
-    </div>
-    <div class="col-md-1 col-lg-2"></div> -->
+    </div-->
 <p style="text-align: center;">
-  <textarea name="query" rows="10" cols="40" placeholder="Query" style="width: 53%;"></textarea>
+  <img src="images/contact.svg" alt="" style="width: 60%; height: auto;">
 </p>
-<p style="text-align: center;"><input type="submit" value="Submit"></p><!--Form ka end -->
 <p style="text-align: center; "><!--Links to social media -->
 
-    <a href="https://www.facebook.com/KJSCESYMPHONY/" target="_blank">
-    <i id="social-fb" class="fa fa-facebook-square fa-3x social"></i>
+    <a href="https://www.facebook.com/KJSCESymphony/" target="_blank">
+    <i id="social-fb" class="fa fa-facebook-official fa-2x social"></i>
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/kjsceskream/" target="_blank"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i>
+    <a href="https://twitter.com/kjscesymphony" target="_blank"><i id="social-tw" class="fa fa-twitter-square fa-2x social"></i>
     </a> &nbsp;&nbsp;&nbsp;
-    <a href="https://youtube.com/kjsceslive/" target="_blank"><i id="social-gp" class="fa fa-youtube-play fa-3x social"></i>
+    <a href="https://www.youtube.com/channel/UC7Z32X4uNZ8c31NteK3065g" target="_blank"><i id="social-gp" class="fa fa-youtube-play fa-2x social"></i>
     </a> &nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/kjscelive/" target="_blank"><i id="social-em" class="fa fa-instagram fa-3x social"></i>
+    <a href="https://www.instagram.com/kjscelive/" target="_blank"><i id="social-em" class="fa fa-instagram fa-2x social"></i>
+    </a> &nbsp;&nbsp;&nbsp;
+    <a href="https://kjscelive.wordpress.com/" target="_blank"><i id="social-wp" class="fa fa-wordpress fa-2x social"></i>
     </a> 
   
 </p><!--End od links-->
-
 <hr>
 <hr>
 <hr>
 <hr>
 
 
+
+ </div>

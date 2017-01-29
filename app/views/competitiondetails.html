@@ -1,12 +1,14 @@
-    
-<div class="container-fluid">
+   
+<div class="container-fluid" id="detailsContainer" style="background-image: url('{{backgroundImage}}'); background-size: cover; " >
+    <div class="container-fluid" style="min-height: 120vh;" >
+    <!-- <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button> -->
         
     <div style="padding: 2%;"><a style="color: black;" href="#!/{{hereFrom}}"><i class="fa fa-arrow-left fa-3x"></i></a></div>
     <div class="row">
                   
             <div class="col-md-9">
-                <div class="container" id="" style=" padding: 0px;" > 
-                        <h1>{{CompetitionName}}</h1>
+                <div class="container-fluid" id="" style=" padding: 0px;" > 
+                        <h1 >{{CompetitionName }} </h1>
                     <div ng-repeat="section in sections">
                         <div class="details" ng-show="getActiveSection($index)" ng-include="getSrc($index)">
                             
@@ -22,17 +24,97 @@
                    <!--  <a href="#" class="list-group-item">Category 2</a>
                     <a href="#" class="list-group-item">Category 3</a> -->
                 </div>
+                <div class="container-fluid" style="text-align: center;">
+                  <div   style=" display: inline-block;background-image: url('images/{{bubbleImage}}'); background-size: cover;"  class="wow fadeIn competition proshow">
+          
+        <span  ng-click="setEventData($index)"><p style="line-height: 20px;font-weight: bold; font-size:15px;">{{competition.tag}}</p>{{competition.name}}</span>
+          
+      </div>
+                </div>
             </div>
     </div>
-    <hr>
-    <hr>
-    <hr>
+ 
 </div>
-<hr>
-<hr>
-<hr>
 
 
+
+</div>
+
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Registration</h4>
+      </div>
+      <div class="modal-body">
+         <form>
+               <div class="form-group row" > 
+                <label for="example-text-input"  class="col-xs-1 col-form-label"></label>
+                <div class="col-xs-10">
+                    <input class="form-control" ng-model="fname" type="text" value="" placeholder="First Name" id="example-text-input">
+                </div>
+           </div>
+            <div class="form-group row" > 
+                <label for="example-text-input" class="col-xs-1 col-form-label"></label>
+                <div class="col-xs-10">
+                    <input class="form-control" ng-model="lname" type="text" placeholder="Last Name" value="" id="example-text-input">
+                </div>
+           </div>
+            <div class="form-group row" > 
+                <label for="example-text-input" class="col-xs-1 col-form-label"></label>
+                <div class="col-xs-10">
+                    <input class="form-control" ng-model="number" type="text" placeholder="Phone Number" value="" id="example-text-input">
+                </div>
+           </div>
+             <div class="form-group row" > 
+                <label for="example-text-input" class="col-xs-1 col-form-label"></label>
+                <div class="col-xs-10">
+                    <input class="form-control" ng-model="email" type="email" placeholder="Email" value="" id="example-text-input">
+                </div>
+           </div>
+            <div class="form-group row" > 
+                <label for="example-text-input" class="col-xs-1 col-form-label"></label>
+                <div class="col-xs-10">
+                    <input class="form-control" ng-model="college" type="text" placeholder="College" value="" id="example-text-input">
+                </div>
+            </div>
+            
+            <div class="form-group row" > 
+                <label for="example-text-input" class="col-xs-1 col-form-label"></label>
+                <div class="col-xs-10">
+                    <input class="form-control" ng-model="city" type="text" placeholder="City" value="" id="example-text-input">
+                </div>
+            </div>
+
+           <div class="row">
+             <div class="col-xs-1"></div>
+
+            <div class="col-xs-10">
+              <div ng-repeat="event in Events" class="form-check">
+              <label class="form-check-label" style="font-weight: normal">
+                <input class="form-check-input" ng-click="toggleSelection(event)" type="radio" name="exampleRadios" id="exampleRadios1" style="font-weight: 100;">
+                {{event}}
+              </label>
+            </div>
+            </div>
+           </div>
+            <!-- CHECK : {{eventChecked}} -->
+        <br/>
+         
+         </form>
+
+
+      </div>
+      <div class="modal-footer">
+        <button type="submit" class="btn btn-primary" ng-click="submit()" data-dismiss="modal">Submit</button>
+      </div>
+    </div>
+
+  </div>
+</div>
 
 
 

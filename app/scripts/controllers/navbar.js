@@ -36,7 +36,7 @@ angular.module('symphonyApp')
         '/events': 'Events',
         '/shieldCompetition': 'Shield',
         '/parvaah': 'Parvaah',
-        '/contact': 'Contact Us',
+        '/contact': 'Contact',
         '/sponsors': 'Sponsors',
         '/rules' : 'Rules',
         '/competitionDetails':'Events',
@@ -47,7 +47,7 @@ angular.module('symphonyApp')
         {name: 'General Rules',url: '#!/rules'},
     	{ name: 'Events', url: '#!/events'},
     	{ name: 'KJSCE\ Shield', url: '#!/shieldCompetition'},
-    	{ name: 'PARVAAH', url: '#!/parvaah'},
+    	{ name: 'Parvaah', url: '#!/parvaah'},
     	{name: 'Contact Us',url: '#!/contact'},
     	{name: 'Sponsors',url: '#!/sponsors'},
         {name: 'Blog',url: 'https://kjscelive.wordpress.com',target: '_blank'},
@@ -55,7 +55,7 @@ angular.module('symphonyApp')
     ];
     $scope.getCurrentSection= function(){
         return lookup[$location.path()];
-    }
+    };
 
 
   });

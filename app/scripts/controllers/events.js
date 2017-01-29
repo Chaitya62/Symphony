@@ -17,118 +17,189 @@ angular.module('symphonyApp')
     
     $scope.currentEvent =  function(){
     	for(var i =0;i<$scope.activeEvent.length;i++){
-    		if( $scope.activeEvent[i] == true){
+    		if( $scope.activeEvent[i] === true){
     			return $scope.eventView[i];
     		}
     	}
     	//return '/views/competitions.html';
-    }
-     $scope.sections = [
-    	{ name: 'Competions',	url: '#!/competitions',},
-    	{ name: 'Workshops', url: '#!/Workshops',},
-    	{ name: 'Informals',url: '#!/Informals', },
-        { name: 'ProShows', url: '#!/ProShows',},
+    };
+     $scope.sections = [                    
+    	  { name: 'ProShows', url: '#!/ProShows',},
+        { name: 'Competitions',	url: '#!/competitions',},
+    	 {name:'Pre-Events',url:'#!/preevents'},
+        { name: 'Informals',url: '#!/Informals', },
+        { name: 'Workshops', url: '#!/Workshops',},
+      
+       
     ];
 
 	$scope.competitions = [
 		{tag: 'Off Beat' ,name: 'Group Dance', src: 'grpdance.jpg'},
-		{tag: '', name: 'AM Bands', src: 'am_bands.jpg'},
-		{tag: 'Symphony Unplugged',  name: 'Singing', src: 'singing.jpg'},
-		{tag:  'Somaiya\'s got talent', name: 'Talent Hunt', src: 'SGT.jpg'},
+		{tag: 'Battle of Bands', name: 'AM Bands', src: 'am_bands.jpg'},
+		{tag: 'Symphony Idol',  name: 'Singing', src: 'singing.jpg'},
+		{tag:  'Somaiya\'s Got Talent', name: 'Talent Hunt', src: 'SGT.jpg'},
 		{tag: 'Udghosh',name: 'Street Play',src: 'street_play.jpg'},
 		// {tag: '', name: 'Classical Dance', src: 'classicaldance.jpg'},
 		{tag: 'Turntable Tussle',name: 'DJ Wars',src:'DJ_wars.jpg',},
-		{tag: 'Carved Chronicales', name: 'Creative Writing',src: 'creative_writing.jpg'},
-        {tag: 'Masterchef Somaiya 4.0', name: 'Culinary/B-plan',src: 'masterchef.jpg'},
+		{tag: 'Carved Chronicles', name: 'Creative Writing',src: 'creative_writing.jpg'},
+        {tag: 'Masterchef Somaiya 4.0', name: 'Culinary/B-plan',src: 'masterchef.jpg',ass: 'in association with BloomBox'},
         {tag:'Out Of Focus',name: 'Photography',src: 'photo.jpg'},
         {tag: 'Ok Doodle',name: 'Doodle Making', src: 'doodle.jpg'},
+    ];
+
+    $scope.informals = [
+        {tag: 'Reckless Eating',src: 'reckless.jpg'},
+        {tag: 'TicTacToe',src:'tictactoe.jpg',},
+        {tag: 'Jenga',src:'jenga.jpg',},
+        {tag: 'Pen Fight',src:'Penfight.jpg',}
+    ];
+
+    $scope.proShows = [
+    
+        {tag:'Lagori',name: 'Feb 7',src: 'lagori.jpg',},
+        {tag:'DJ Candice',name: 'Feb 9',src:'Candy.jpg'},
+
+    ];
+
+    $scope.preEvents = [
+        {tag: 'Colors of Youth',name:'Mumbai Rounds',src:'coy.jpg',},
+        //{tag:'Cricket Match Screening',name:'India vs England',src:'cricket.jpg'},
+        //{tag:'Jam Session',name:'',src:'jam.jpg'},
+        {tag: 'Somaiya\'s Got Talent',name:'College Elimination Rounds' , src:'SGT.jpg',},
+    ];
 
 		
 
-	];
+	
 	$scope.activeEvent =[
-    true,false,false,false
+    true,false,false,false,false
     ];
+    if(eventDetails.activeSection){
+        $scope.activeEvent = eventDetails.activeSection;
+    }
     $scope.eventView=[
-    	'views/competitions.html',
-        'views/workshops.html',
-    	'views/informals.html',
     	'views/proshows.html',
+        'views/competitions.html',
+        'views/preevents.html',
+        'views/informals.html',
+        'views/workshops.html',
+    	
+        
 
     ];
-    new WOW().init();
+
+  
 
 
-    var basePathCompetitions = 'views/competitions/'
+    $scope.InformalDetailsSrc = {
+       'Reckless Eating':[
+        {src: 'views/informals/reckless/about.html'},
+       ],
+       'TicTacToe':[
+        {src: 'views/informals/tictactoe/about.html'},
+       ],
+       'Jenga':[
+        {src: 'views/informals/jenga/about.html'},
+       ],
+       'Pen Fight':[
+        {src: 'views/informals/penfight/about.html'}
+       ],
+    };
+
+    $scope.proShowsDetailsSrc = {
+
+        'DJ Candice':[
+        { src:'views/proshows/djcandice/about.html'},
+        ],
+        'Lagori':[
+        {src: 'views/proshows/lagori/about.html'},
+        ],
+        
+    };
+   
+    $scope.preEventsSrc ={
+        'Somaiya\'s Got Talent':[
+            {src: 'views/preevents/sgt/about.html',}
+        ],
+        'Cricket Match Screening':[
+            {src: 'views/preevents/cricket/about.html',}
+        ],
+        'Colors of Youth':[
+            {src: 'views/preevents/coy/about.html',}
+        ],
+        'Jam Session':[
+            {src: 'views/preevents/jam/about.html',}
+        ],
+    };
 
     $scope.eventDetailsSrc = {
         'Group Dance': [
-        {src: basePathCompetitions + 'groupdance/about.html',},
-        {src: basePathCompetitions + 'groupdance/rules.html',},
-        {src: basePathCompetitions + 'groupdance/registration.html' ,},
-        {src: basePathCompetitions + 'groupdance/contact.html',},
+        {src: 'views/competitions/groupdance/about.html',},
+        {src: 'views/competitions/groupdance/rules.html',},
+        {src: 'views/competitions/groupdance/registration.html' ,},
+        {src: 'views/competitions/groupdance/contact.html',},
         ],
         'AM Bands':[
-        {src: basePathCompetitions + 'ambands/about.html',},
-        {src: basePathCompetitions + 'ambands/rules.html',},
-        {src: basePathCompetitions + 'ambands/registration.html' ,},
-        {src: basePathCompetitions + 'ambands/contact.html',},
+        {src: 'views/competitions/ambands/about.html',},
+        {src: 'views/competitions/ambands/rules.html',},
+        {src: 'views/competitions/ambands/registration.html' ,},
+        {src: 'views/competitions/ambands/contact.html',},
 
         ],
         'Singing': [
-        {src: basePathCompetitions + 'somaiyaunplugged/about.html',},
-        {src: basePathCompetitions + 'somaiyaunplugged/rules.html',},
-        {src: basePathCompetitions + 'somaiyaunplugged/registration.html' ,},
-        {src: basePathCompetitions + 'somaiyaunplugged/contact.html',},
+        {src: 'views/competitions/somaiyaunplugged/about.html',},
+        {src: 'views/competitions/somaiyaunplugged/rules.html',},
+        {src: 'views/competitions/somaiyaunplugged/registration.html' ,},
+        {src: 'views/competitions/somaiyaunplugged/contact.html',},
 
         ],
         'Talent Hunt':[
-        {src: basePathCompetitions + 'SGT/about.html',},
-        {src: basePathCompetitions + 'SGT/rules.html',},
-        {src: basePathCompetitions + 'SGT/registration.html' ,},
-        {src: basePathCompetitions + 'SGT/contact.html',},
+        {src: 'views/competitions/SGT/about.html',},
+        {src: 'views/competitions/SGT/rules.html',},
+        {src: 'views/competitions/SGT/registration.html' ,},
+        {src: 'views/competitions/SGT/contact.html',},
         ],
         'Street Play':[
-        {src: basePathCompetitions + 'streetplay/about.html',},
-        {src: basePathCompetitions + 'streetplay/rules.html',},
-        {src: basePathCompetitions + 'streetplay/registration.html' ,},
-        {src: basePathCompetitions + 'streetplay/contact.html',},
+        {src: 'views/competitions/streetplay/about.html',},
+        {src: 'views/competitions/streetplay/rules.html',},
+        {src: 'views/competitions/streetplay/registration.html' ,},
+        {src: 'views/competitions/streetplay/contact.html',},
         ],
         'Classical Dance':[
-        {src: basePathCompetitions + 'classicaldance/about.html',},
-        {src: basePathCompetitions + 'classicaldance/rules.html',},
-        {src: basePathCompetitions + 'classicaldance/registration.html' ,},
-        {src: basePathCompetitions + 'classicaldance/contact.html',},
+        {src: 'views/competitions/classicaldance/about.html',},
+        {src: 'views/competitions/classicaldance/rules.html',},
+        {src: 'views/competitions/classicaldance/registration.html' ,},
+        {src: 'views/competitions/classicaldance/contact.html',},
         ],
         'DJ Wars':[
-        {src: basePathCompetitions + 'djwars/about.html',},
-        {src: basePathCompetitions + 'djwars/rules.html',},
-        {src: basePathCompetitions + 'djwars/registration.html' ,},
-        {src: basePathCompetitions + 'djwars/contact.html',},
+        {src: 'views/competitions/djwars/about.html',},
+        {src: 'views/competitions/djwars/rules.html',},
+        {src: 'views/competitions/djwars/registration.html' ,},
+        {src: 'views/competitions/djwars/contact.html',},
         ],
         'Creative Writing':[
-        {src: basePathCompetitions + 'creativewriting/about.html',},
-        {src: basePathCompetitions + 'creativewriting/rules.html',},
-        {src: basePathCompetitions + 'creativewriting/registration.html' ,},
-        {src: basePathCompetitions + 'creativewriting/contact.html',},
+        {src: 'views/competitions/creativewriting/about.html',},
+        {src: 'views/competitions/creativewriting/rules.html',},
+        {src: 'views/competitions/creativewriting/registration.html' ,},
+        {src: 'views/competitions/creativewriting/contact.html',},
         ],
         'Culinary/B-plan':[
-        {src: basePathCompetitions + 'masterchef/about.html',},
-        {src: basePathCompetitions + 'masterchef/rules.html',},
-        {src: basePathCompetitions + 'masterchef/registration.html' ,},
-        {src: basePathCompetitions + 'masterchef/contact.html',},
+        {src: 'views/competitions/masterchef/about.html',},
+        {src: 'views/competitions/masterchef/rules.html',},
+        {src: 'views/competitions/masterchef/registration.html' ,},
+        {src: 'views/competitions/masterchef/contact.html',},
         ],
         'Doodle Making':[
-         {src: basePathCompetitions + 'doodlemaking/about.html',},
-        {src: basePathCompetitions + 'doodlemaking/rules.html',},
-        {src: basePathCompetitions + 'doodlemaking/registration.html' ,},
-        {src: basePathCompetitions + 'doodlemaking/contact.html',},
+         {src: 'views/competitions/doodlemaking/about.html',},
+        {src: 'views/competitions/doodlemaking/rules.html',},
+        {src: 'views/competitions/doodlemaking/registration.html' ,},
+        {src: 'views/competitions/doodlemaking/contact.html',},
         ],
         'Photography':[
-          {src: basePathCompetitions + 'photography/about.html',},
-        {src: basePathCompetitions + 'photography/rules.html',},
-        {src: basePathCompetitions + 'photography/registration.html' ,},
-        {src: basePathCompetitions + 'photography/contact.html',},
+          {src: 'views/competitions/photography/about.html',},
+        {src: 'views/competitions/photography/rules.html',},
+        {src: 'views/competitions/photography/registration.html' ,},
+        {src: 'views/competitions/photography/contact.html',},
         ],
 
 
@@ -139,7 +210,7 @@ angular.module('symphonyApp')
     $scope.setActiveEvent =function(act){
     	
     	for(var i = 0;i<$scope.activeEvent.length;i++){
-    		if(i== act){
+    		if(i === act){
     			$scope.activeEvent[i] = true;
     		}
     		else{
@@ -150,21 +221,61 @@ angular.module('symphonyApp')
     var Eventsections = [
         {name:'Description' },
         {name: 'Rules'},
-        {name:'Registeration & Prize'},
+        {name:'Registration & Prize'},
         {name:'Contact'},
 
     ];
+    var informalSections = [
+        {name: 'About'},
+    ];
 
     $scope.setEventData = function(i){
-    	eventDetails.eventData.eventName = $scope.competitions[i].name;
+    	eventDetails.eventData.eventName = $scope.competitions[i].tag;
+        if($scope.competitions[i].tag == 'Masterchef Somaiya 4.0'){
+            eventDetails.eventData.eventName = 'Masterchef Somaiya 4.0 in association with BloomBox'
+         }
         eventDetails.eventData.eventSrcs = $scope.eventDetailsSrc[($scope.competitions[i].name)];
         eventDetails.sections = Eventsections;
-        eventDetails.hereFrom = "events";
-        console.log(eventDetails.eventData.eventSrcs);
-    };
+        eventDetails.backgroundImage = 'images/alleventsbg.png';
+        eventDetails.hereFrom = 'events';
+        eventDetails.bubbleImag = $scope.competitions[i].src;
+        eventDetails.activeSection = $scope.activeEvent;
 
+        //console.log(eventDetails.eventData.eventSrcs);
+    };
+     $scope.setInformalData = function(i){
+        eventDetails.eventData.eventName = $scope.informals[i].tag;
+        eventDetails.eventData.eventSrcs = $scope.InformalDetailsSrc[($scope.informals[i].tag)];
+        eventDetails.sections = informalSections;
+        eventDetails.backgroundImage = 'images/alleventsbg.png';
+        eventDetails.hereFrom = 'events';
+        eventDetails.bubbleImag = $scope.informals[i].src;
+        eventDetails.activeSection = $scope.activeEvent;
+        //console.log(eventDetails.eventData.eventSrcs);
+    };
+     $scope.setPreEventData = function(i){
+        eventDetails.eventData.eventName = $scope.preEvents[i].tag;
+        eventDetails.eventData.eventSrcs = $scope.preEventsSrc[($scope.preEvents[i].tag)];
+        eventDetails.sections = informalSections;
+        eventDetails.backgroundImage = 'images/alleventsbg.png';
+        eventDetails.hereFrom = 'events';
+        eventDetails.bubbleImag = $scope.preEvents[i].src;
+        eventDetails.activeSection = $scope.activeEvent;
+        //console.log(eventDetails.eventData.eventSrcs);
+    };
+      $scope.setProShowData = function(i){
+
+        eventDetails.eventData.eventName = $scope.proShows[i].tag;
+        eventDetails.eventData.eventSrcs = $scope.proShowsDetailsSrc[($scope.proShows[i].tag)];
+        eventDetails.sections = informalSections;
+        eventDetails.backgroundImage = 'images/alleventsbg.png';
+        eventDetails.hereFrom = 'events';
+        eventDetails.bubbleImag = $scope.proShows[i].src;
+        eventDetails.activeSection = $scope.activeEvent;
+        //console.log(eventDetails.eventData.eventSrcs);
+    };
      $scope.isActive = function(i){
-        if($scope.activeEvent[i]){return "active";}
+        if($scope.activeEvent[i]){return 'active';}
     };   
    
 

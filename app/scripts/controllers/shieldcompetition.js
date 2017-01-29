@@ -23,10 +23,11 @@ angular.module('symphonyApp')
 		{name: 'Music',src: 'music.jpg'},
 		{name: 'Photography',src:'photos.jpg',},
 		{name: 'Quiz',src: 'quiz.jpg'},
+        {name: 'Jamboree',src: 'SRTE.jpg'},
 	
 
 	];
-	 var basePathCompetitions = 'views/competitions/'
+	 var basePathCompetitions = 'views/competitions/';
 	 $scope.eventDetailsSrc = {
         'Antakshari': [
         {src: basePathCompetitions + 'shieldantakshari/about.html',},
@@ -70,6 +71,11 @@ angular.module('symphonyApp')
         {src: basePathCompetitions + 'shieldquiz/rules.html',},
         {src: basePathCompetitions + 'shieldquiz/contact.html',},
         ],
+        'Jamboree':[
+        {src: basePathCompetitions + 'shieldsrte/about.html',},
+        {src: basePathCompetitions + 'shieldsrte/rules.html',},
+        {src: basePathCompetitions + 'shieldsrte/contact.html',},
+        ],
        
 
 
@@ -86,7 +92,8 @@ angular.module('symphonyApp')
     	eventDetails.eventData.eventName = $scope.competitions[i].name;
         eventDetails.eventData.eventSrcs = $scope.eventDetailsSrc[($scope.competitions[i].name)];
         eventDetails.sections = Eventsections;
-        eventDetails.hereFrom = "shieldCompetition";
+        eventDetails.backgroundImage = 'images/shield_bg.jpg';
+        eventDetails.hereFrom = 'shieldCompetition';
         console.log(eventDetails.eventData.eventSrcs);
     };
   });

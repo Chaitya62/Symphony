@@ -1,7 +1,16 @@
- <section style="height: 80vh; background: transparent;">
-   <div class="dream" style="">
-     <p class="wow fadeInLeft" data-wow-delay="1s" style="font-family: 'Arciform'">An Odyssey of Dreams</p>
-   </div>
+ <section style=" ">
+  <img alt="" src="images/odessy.jpg" style="height:auto; width: 100%;">
+  <div class="section-overlay">
+
+   <!--   <div class="dream"  style="background: transparent;"> -->
+          <div class="wow fadeInUp center section-text" data-wow-delay="0.8s" style="color: white; vertical-align: middle; padding: 10%;">
+            <h1 class="odessy" style="text-align: center;">An Odyssey of Dreams</h1>
+            <p class="section-text" style="text-align: center;">
+             An Odyssey leaves an imprint on your mind and the experiences that you gain along the way leave you questioning the very perceptions of reality. <br> This Symphony, we challenge conventions and break stereotypes as we take you on a whirlwind of a journey, glimpsing into an improbable universe. 
+            </p>
+          </div>
+  <!--  </div> -->
+  </div>
  </section>
 
  <section class="wow FadeIn" id="bulb-container" style="position: relative;  background: white;">
@@ -31,7 +40,6 @@
       <img class="bubble2"  ng-src='images/bubble.svg'/> 
       <img class="bubble3"  ng-src='images/bubble.svg'/>
       <img class="bubble4"  ng-src='images/bubble.svg' />
-      <img class="bubble5"  ng-src='images/bubble.svg'/>
      
     </div>
     <!-- <div class="section-overlay">
@@ -48,7 +56,7 @@
 
   <div class="section-overlay">
      <div data-wow-delay="0.6s" class="wow fadeIn  right-box pull-right">
-        <p class="section-text" style="color:white;"> Of flying donuts and surreal fantasies..</p>
+        <p class="section-text" style="color:white;"> Of flying donuts, astronautical goldfish and surreal fantasies..</p>
      </div>
     </div>
   </section>
@@ -89,18 +97,18 @@
   </section>
 
 
-  <section style="height: 80vh;">
+  <section style="height: 65vh; background-image:url('images/section0.jpg');background-size: cover;background-position:center;display: table;text-align: center; ">
   
-    <div class="container-fluid" style="margin: 15%; margin-top: 3%;">
+    <div class="container-fluid" style="display:table-cell; ">
       <div class="row">
           <div class="col-md-6 col-sm-6 col-xs-12">
-               <div class="container"  style="height: 50vh; text-align: center">
+               <div class="container"  style="height: 65vh; text-align: center">
           <rzslider rz-slider-model="Slider.value"
-            rz-slider-options="Slider.options"  style="display: inline-block; margin-right: -0%; color: black;"></rzslider>
+            rz-slider-options="Slider.options"  style="display: inline-block; color: black;"></rzslider>
             </div>     
           </div>
-        <div class="col-md-6 col-sm-6 col-xs-12" style="text-align: center">
-          <img ng-src="{{getSrc(Slider.value)}}" alt="" style="border-radius: 50%; width: 70%;">
+        <div class="col-md-6 col-sm-6 col-xs-12" style="display: table-cell; vertical-align: middle; text-align: center">
+          <img ng-src="{{getSrc(Slider.value)}}" alt="" style="margin-top: 10%; border-radius: 50%; width: 50%;" />
         </div>
       </div>  
     </div>
@@ -114,21 +122,122 @@
   </section>
 
 
-  <section>
+  <section style="">
     <div class="video">
     <video autoplay="autoplay"  id="my-video" loop="loop" muted=""  poster="images/main_page.jpg" >
         <source src="assets/videos/hero.mp4" type="video/mp4"> 
         <source src="assets/videos/hero.webm" type="video/webm">
     </video>
+      <div style="position:absolute; text-align: center; top:0; z-index: 2;  width:100%; padding:1%;">
+     <!--  <i class="fa fa-arrow-circle-o-up fa-3x animated infinite bounce" style="color:black"></i> -->
+        <img src="images/arrow.png" style="display:inline; width:10%; z-index: 2; margin-top: 0%; width:5%;" class="img-responsive animated infinite bounce"> 
+      <!-- <i class="fa fa-arrow-up fa-2x animated infinite bounce" style="color:black"></i> -->
+      </div> 
+
     <div class="container" style="display: table; height: 100vh;">
+    <!--  <div class="" style="display: table-header-group; text-align: center;
+               background: rgba(255,255,255,0.4);padding:1%;">
+                <img src="images/kjsce.svg" style="position:relative; z-index: 2; margin-top: 0%; width:100%;">   
+        </div> -->
+ 
          <div class="" style="display: table-cell; text-align: center;
         vertical-align: middle;">
-          <img src="images/symphony_logo.svg" style="position:relative; z-index: 2; margin-top: 0%; width:100%;">   
+          <img id="c" src="images/symphony_logo.svg" style="position:relative; z-index: 2; margin-top: 0%; width:100%;">   
          </div>
-        
     </div> </div>
   </section>
 
 
   <section id="main" style="height: 50vh;">
   </section>
+<div class="hide" style="display: none;">
+  <img ng-repeat="image in cache" src="{{image}}" alt="">
+</div>
+<div  class="preloader" style="height:100vh;width:100%;z-index:10000; position: fixed; top:0;bottom:0;left:0;right:0;background: white; display: table;background-image: url('images/loaderbg.png');background-size: cover; background-position: center;" >
+
+       <div class="container-fluid" style="text-align: center;display: table-cell;vertical-align: middle;text-align: center;">
+          <div class="container" style="display: inline; text-align: center;">
+            <img id="c" src="images/symphony_logo.svg" style="position:relative; z-index: 2; margin-top: 0%; width:50%;display: inline; text-align: center">
+        <p style="display: block; margin-top: 10%;" class="loadingtext section-text">
+          Creating Time-Loop Inversion Field...
+         </p> 
+          </div>  
+       </div>
+      
+
+     
+  <!--  </div> -->
+</div>
+
+<script>
+// $().ready(function(){
+//   window.scrollTo(0,document.body.scrollHeight);
+// });
+var loader = (function($){
+
+   var phrases =[
+    'Time is an illusion. Loading time doubly so...',
+    'Counting backwards from infinity...',
+    'You are in a maze of twisty loading screens,all alike...',
+    ' Recalculating Pi...',
+    'Creating Time-Loop Inversion Field...',
+    'Launching hyper-flux vortex...',
+   ];
+   var preloader;
+   var loader_text;
+   var interval;
+
+  var cacheHtml =function(){
+      preloader = $('.preloader');
+      loader_text = $('.loadingtext')[0];
+      interval =  window.setInterval(changeText,900)
+    
+  };
+  var changeText = function(){
+     var id = Math.round(Math.random()*(phrases.length-1));
+    //console.log(id);
+    loader_text.innerHTML = phrases[id];
+  };
+ 
+  var start_shit = function(){
+       $(document).ready(function(){
+   
+        setTimeout(function() {
+           preloader.hide();
+            window.scrollTo(0,document.body.scrollHeight);
+            clearInterval(interval);
+        }, 5000);
+
+
+
+  });    
+      
+  };
+
+
+  var init = function(){
+    cacheHtml();
+    start_shit();
+  }
+
+
+  
+  // while(loading){
+  //    var id = Math.round(Math.random()*(phrases.length-1));
+  
+  //   loader_text.innerHTML = phrases[id];
+  //   setTimeout(function(){
+  //     loading = false;
+  //   },2000) 
+  // }
+
+    return ({
+       init_shit: init,
+    });
+
+  
+})($);
+  
+  loader.init_shit();
+
+</script>

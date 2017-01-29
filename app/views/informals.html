@@ -1,8 +1,15 @@
-<div class="container" style="height: 100vh;">
-	<h1>
-	
-	COMING SOON
+<div  style="">
+		<div class="" style="margin-top: 0%; margin-left: 2%;text-align: center;">
+			
+ 		<a  ng-href="#!/competitionDetails" style="text-decoration: none; outline: 0;">
+			<div  ng-repeat="informal in informals" style="background-image: url('images/{{informal.src}}'); background-size: cover;"  class="wow flipInY competition" ng-click="setInformalData($index)" >
+					
+				<span  ng-click="setInformalData($index)"><p style="line-height: 20px;font-weight: bold; font-size:15px;">{{informal.tag}}</p>{{informal.name}}</span>
+					
+			</div>
+		</a>
+		
 
-</h1>
+		</div>
 
-</div>	
+</div>
