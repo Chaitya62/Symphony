@@ -12,7 +12,7 @@ angular.module('symphonyApp')
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
-      'Karma'
+      'Karma',
     ];
     
     $scope.currentEvent =  function(){
@@ -33,13 +33,18 @@ angular.module('symphonyApp')
        
     ];
 
+    $scope.workshops = [
+        {tag:'Drum Circle',name:'',src:'drum.jpg'},
+        
+    ];
+
 	$scope.competitions = [
 		{tag: 'Off Beat' ,name: 'Group Dance', src: 'grpdance.jpg'},
 		{tag: 'Battle of Bands', name: 'AM Bands', src: 'am_bands.jpg'},
 		{tag: 'Symphony Idol',  name: 'Singing', src: 'singing.jpg'},
 		{tag:  'Somaiya\'s Got Talent', name: 'Talent Hunt', src: 'SGT.jpg'},
 		{tag: 'Udghosh',name: 'Street Play',src: 'street_play.jpg'},
-		// {tag: '', name: 'Classical Dance', src: 'classicaldance.jpg'},
+        // {tag: '', name: 'Classical Dance', src: 'classicaldance.jpg'},
 		{tag: 'Turntable Tussle',name: 'DJ Wars',src:'DJ_wars.jpg',},
 		{tag: 'Carved Chronicles', name: 'Creative Writing',src: 'creative_writing.jpg'},
         {tag: 'Masterchef Somaiya 4.0', name: 'Culinary/B-plan',src: 'masterchef.jpg',ass: 'in association with BloomBox'},
@@ -56,14 +61,19 @@ angular.module('symphonyApp')
 
     $scope.proShows = [
     
-        {tag:'Lagori',name: 'Feb 7',src: 'lagori.jpg',},
-        {tag:'DJ Candice',name: 'Feb 9',src:'Candy.jpg'},
+        {tag:'When Chai Met Toast',name:'February 6',src:'wcmt.jpg'},
+        {tag:'Lagori',name: 'February 7',src: 'lagori.jpg',},
+        {tag:'Kenneth Sebastian',name:'February 8',src:'kenny.jpg'},
+        {tag:'Jaz Dhami and RaOol',name:'February 8',src:'rapper.jpg'},
+        {tag: 'Aditi Singh Sharma', name:'February 8',src:'ass.jpg',},
+        {tag:'DJ Candice',name: 'February 9',src:'Candy.jpg'},
+
 
     ];
 
     $scope.preEvents = [
         {tag: 'Colors of Youth',name:'Mumbai Rounds',src:'coy.jpg',},
-        //{tag:'Cricket Match Screening',name:'India vs England',src:'cricket.jpg'},
+        {tag:'Cricket Match Screening',name:'India vs England',src:'cricket.jpg'},
         //{tag:'Jam Session',name:'',src:'jam.jpg'},
         {tag: 'Somaiya\'s Got Talent',name:'College Elimination Rounds' , src:'SGT.jpg',},
     ];
@@ -87,6 +97,13 @@ angular.module('symphonyApp')
         
 
     ];
+
+    $scope.WorkshopsDetailsSrc={
+
+        'Drum Circle':[
+            {src:'views/workshops/drumcircle/about.html',}
+        ],
+    };
 
   
 
@@ -113,6 +130,18 @@ angular.module('symphonyApp')
         ],
         'Lagori':[
         {src: 'views/proshows/lagori/about.html'},
+        ],
+        'Kenneth Sebastian':[
+            {src:'views/proshows/kenny/about.html'},
+        ],
+        'When Chai Met Toast':[
+            {src:'views/proshows/wcmt/about.html'}
+        ],
+        'Aditi Singh Sharma':[
+        {src:'views/proshows/aditi/about.html'},
+        ],
+        'Jaz Dhami and RaOol':[
+            {src:'views/proshows/rapper/about.html'},
         ],
         
     };
@@ -271,6 +300,19 @@ angular.module('symphonyApp')
         eventDetails.backgroundImage = 'images/alleventsbg.png';
         eventDetails.hereFrom = 'events';
         eventDetails.bubbleImag = $scope.proShows[i].src;
+        eventDetails.activeSection = $scope.activeEvent;
+        //console.log(eventDetails.eventData.eventSrcs);
+    };
+
+        
+        $scope.setWorkshopData = function(i){
+
+        eventDetails.eventData.eventName = $scope.workshops[i].tag;
+        eventDetails.eventData.eventSrcs = $scope.WorkshopsDetailsSrc[($scope.workshops[i].tag)];
+        eventDetails.sections = informalSections;
+        eventDetails.backgroundImage = 'images/alleventsbg.png';
+        eventDetails.hereFrom = 'events';
+        eventDetails.bubbleImag = $scope.workshops[i].src;
         eventDetails.activeSection = $scope.activeEvent;
         //console.log(eventDetails.eventData.eventSrcs);
     };

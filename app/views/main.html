@@ -157,8 +157,8 @@
 
        <div class="container-fluid" style="text-align: center;display: table-cell;vertical-align: middle;text-align: center;">
           <div class="container" style="display: inline; text-align: center;">
-            <img id="c" src="images/symphony_logo.svg" style="position:relative; z-index: 2; margin-top: 0%; width:50%;display: inline; text-align: center">
-        <p style="display: block; margin-top: 10%;" class="loadingtext section-text">
+            <img id="c" src="images/loadu.svg" style="position:relative; z-index: 2; margin-top: 0%; width:50%;display: inline; text-align: center">
+        <p style="display: block;" class="loadingtext section-text">
           Creating Time-Loop Inversion Field...
          </p> 
           </div>  
@@ -190,7 +190,7 @@ var loader = (function($){
   var cacheHtml =function(){
       preloader = $('.preloader');
       loader_text = $('.loadingtext')[0];
-      interval =  window.setInterval(changeText,900)
+      
     
   };
   var changeText = function(){
@@ -201,7 +201,7 @@ var loader = (function($){
  
   var start_shit = function(){
        $(document).ready(function(){
-   
+       
         setTimeout(function() {
            preloader.hide();
             window.scrollTo(0,document.body.scrollHeight);
@@ -216,6 +216,7 @@ var loader = (function($){
 
 
   var init = function(){
+    interval =  window.setInterval(changeText,800 )  
     cacheHtml();
     start_shit();
   }

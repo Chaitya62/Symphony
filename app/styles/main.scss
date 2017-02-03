@@ -832,6 +832,10 @@ a:hover, a:active, a:focus {
 
 }
 
+#mobileContainer{
+  height:100vh;
+}
+
 .section1,.section2{
 
   background-image: url('../images/section1.jpg');
@@ -1032,6 +1036,9 @@ section .section-overlay{
   .panel-header {
     padding: 30px 0;
   }
+  #mobileContainer{
+    height: 100vh;
+  }
   // .dream p{
   //   font-size: 95px;
   // }
@@ -1043,6 +1050,10 @@ section .section-overlay{
      .odessy{
     margin-top: 15%;
   }
+
+  #mobileContainer{
+    height: 100vh;
+  }
   // .dream p{
   //   font-size: 85px;
   
@@ -1053,6 +1064,10 @@ section .section-overlay{
 @media (min-width: 768px) and (max-width: 972px) {
   .section-text {
     font-size: 12px;
+  }
+
+  #mobileContainer{
+    height: 200vh;
   }
   // .dream p{
   //   font-size: 65px;
@@ -1072,7 +1087,7 @@ section .section-overlay{
 @media (max-width: 768px) {
 
   #mobileContainer{
-    min-height: 150vh;
+    min-height: 200vh;
   }
   .section-text {
     font-size: 10px;
@@ -1102,6 +1117,10 @@ section .section-overlay{
 @media (max-width: 425px) {
   .hide-xs {
     display: none;
+  }
+
+  #mobileContainer{
+    height: 300vh;
   }
   #query{
     width: 100%;

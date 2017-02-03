@@ -70,9 +70,7 @@ angular.module('symphonyApp')
     // {name:'',src''},
 
   ];
-  $scope.other_2017 = [
-    
-  ];
+ 
 
   $scope.others_2016 = [
     'images/tga.png',
@@ -94,28 +92,54 @@ angular.module('symphonyApp')
   ];
 
   $scope.sponsor_2017 = [
+  {name:'Presented By',src:'images/Pulse.jpg',href:'#',},
+  {name:'Powered By',src:'images/vh1.png',href:'#',},
+  {name:'Co-sponsored By',src:'images/firefox.jpg',href:'#',},
+  {name : 'In Association With', src:'images/bisleri.jpg',href:'#'},
+   {name:'Pro Night Presented By',src:'images/COYs.png',href:'#'},
+
+   {name:'Supported By', src:'images/BPL.jpg',href:'#',},
+    {name : 'Music Gear Partner', src:'images/futardos.png',href:'#',},
+    {name:'AM Bands Partner',src:'images/nescafelabs.jpg',href:'#',},
+  {name:'Symphony Idol Partner',src:'images/sma.png' ,href:'#'},
+   {name : 'Outdoor Media Partner', src:'images/telex.jpg',href:'#'},
+    {name:'Wifi Partner',src:'images/joispot.jpg',href:'#',},  
+  {name:'Radio Partner',src:'images/redfm.jpg',href:'#'},
+   {name : 'Wellness Partner', src:'images/himalaya.png',href:'#'},
   {name : 'Snack Partner', src:'images/balaji.jpg',href:'#'},
-  {name : 'Beverage Partner', src:'images/bisleri.jpg',href:'#'},
-  {name : 'Voyage Partner', src:'images/vagabond.jpg',href:'#'},
-  {name:'Symphony Idol Partner',src:'images/sma.png' ,href:'#'},  
+  {name:'Ice Cream Partner',src:'images/vadilal.jpg',href:'#'},
+
+
+  {name : 'Voyage Partner', src:'images/vagabond.jpg',href:'#'},  
   {name : 'Style Partner', src:'images/ss.jpg',href:'#'},
+  {name:'Group Dance',src:'images/TLA.png',href:'#',},  
     {name:'Online Media Partner',src:'images/campfestiva.jpg',href:'#'},
   {name:'Udghosh Partner',src:'images/vidhur.jpg'},
-  {name : 'E-Paper Partner', src:'images/freepress.jpg',href:'#'},
-  {name : 'Outdoor Media Partner', src:'images/telex.jpg',href:'#'},
+   {name:'DJ WARS Partner',src:'images/MMI.jpg',href:'#'},
+  
+  {name:'Creativity Partner',src:'images/SM.jpg',href:'https://storymirror.com/'},
     {name : 'Support Media Partner', src:'images/stupidsid.jpg',href:'#'},
+    {name:'Footwear Partner',src:'images/buckaroo.png',href:'#'},
   {name : 'Magazine Partner', src:'images/ei.png',href:'#'},
    {name: 'Coupon Partner',src:'images/GrabOn.jpg',href:'https://www.grabon.in/'},
    {name:'Seminar Partner',src:'images/collegepond.jpg',href:'#'},
-   {name:'DJ WARS Partner',src:'images/MMI.jpg',href:'#'},
+   {name:'Tattoo Partner',src:'images/bodyCanvas.jpg',href:'http://www.mumbaitattooart.com/'},
+   {name:'Workshop Partner',src:'images/taalinc.png',href:'https://www.taalinc.net'},
+   {name:'Doodle Partner',src:'images/doodlebawa.jpg',href:'http://www.doodlebawa.com/'},
+   {name:'Celebrity Travel Partner',src:'images/justride.jpg',href:'#',},
    {name:'KJSCE Shield Dance Partner',src:'images/ansar.jpg',href:'#'},
+   {name : 'E-Paper Partner', src:'images/freepress.jpg',href:'#'},
+   {name:'Online Shopping Partner',src:'images/culturetruck.png',href:'#',},
    {name:'Online Media Partner',src:'images/BrainBuxa.jpg',href:'#'},
+   {name:'Online Media Partner',src:'images/ideap.jpg',href:'#'},
     {name:'Online Magazine Partner',src:'images/fashionLady.jpg',href:'https://www.fashionlady.in/'},
   // {name : 'Creativity Partner', src:'images/',href:'#'},
   ];
 
   $scope.others_2017 = [
     // 'images/imperial.png',
+    'images/catking.jpg',
+    'images/jamboree.png',
   ];
 
   $scope.getClass = function(i){

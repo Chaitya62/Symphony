@@ -98,7 +98,7 @@ angular.module('symphonyApp')
                  {name: 'Yash Shah',src: 'images/yashS.gif',link:'https://www.linkedin.com/in/yashshhah',fb:'https://www.facebook.com/yashshhah',},
                   {name: 'Leander Mascarenhas',src: 'images/lea.gif',link:'#!/contact',fb:'https://www.facebook.com/leander.mascarenhas.7',},
                   {name: 'Aditya Madhavan',src: 'images/Madhavan.gif',link:'https://in.linhttps://www.facebook.com/arya.ambardekarkedin.com/in/adityamadhavan',fb:'https://www.facebook.com/aditya.madhavan.9',},
-                  {name: 'Khyatee Thakkar',src:'images/khyatee.gif',link:'#!/contact',fb:'https://www.facebook.com/khyateethakkar3'},
+                  {name: 'Khyatee Thakkar',src:'images/khyatee.gif',link:'https://in.linkedin.com/in/khyateethakkar3',fb:'https://www.facebook.com/khyateethakkar3'},
             ],
         },
         {

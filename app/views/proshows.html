@@ -1,13 +1,20 @@
 <div  style="">
 		<div class="" style="margin-top: 0%; margin-left: 2%;text-align: center;">
+		<div ng-repeat="proshow in proShows" class="col-lg-4  col-xs-12">
 			
- 		<a  ng-href="#!/competitionDetails" style="text-decoration: none; outline: 0;">
-			<div  ng-repeat="proshow in proShows" style="background-image: url('images/{{proshow.src}}'); background-size: cover;"  class="wow flipInY competition proshow"  ng-click="setProShowData($index)" >
+				<a   ng-href="#!/competitionDetails"   style="text-decoration: none; outline: 0;">
+			<div    style="background-image: url('images/{{proshow.src}}'); background-size: cover;"  class="wow flipInY competition proshow "  ng-click="setProShowData($index)" >
 					
 				<span  ng-click="setProShowData($index)"><p style="line-height: 20px;font-weight: bold; font-size:15px;">{{proshow.tag}}</p>{{proshow.name}}</span>
 					
 			</div>
 		</a>
+
+
+
+		</div>
+		
+ 	
 		
 
 		</div>
