@@ -67,6 +67,7 @@ angular.module('symphonyApp')
         {tag:'Jaz Dhami and RaOol',name:'February 8',src:'rapper.jpg'},
         {tag: 'Aditi Singh Sharma', name:'February 8',src:'ass.jpg',},
         {tag:'DJ Candice',name: 'February 9',src:'Candy.jpg'},
+        {tag:'DJ Kerano',name:'February 9',src:'kerano.jpg'},
 
 
     ];
@@ -142,6 +143,9 @@ angular.module('symphonyApp')
         ],
         'Jaz Dhami and RaOol':[
             {src:'views/proshows/rapper/about.html'},
+        ],
+        'DJ Kerano':[
+            {src:'views/proshows/kerano/about.html'},
         ],
         
     };

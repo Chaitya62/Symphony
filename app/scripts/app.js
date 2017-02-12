@@ -73,6 +73,11 @@ angular
         controller: 'RulesCtrl',
         controllerAs: 'rules'
       })
+      .when('/websiteteam', {
+        templateUrl: 'views/websiteteam.html',
+        controller: 'WebsiteteamCtrl',
+        controllerAs: 'websiteteam'
+      })
       .otherwise({
         redirectTo: '/'
       });

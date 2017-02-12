@@ -82,4 +82,3 @@ $scope.getSrc = function(i){
    
   });
 
-loader.init_shit();

@@ -94,6 +94,7 @@ angular.module('symphonyApp')
         eventDetails.sections = Eventsections;
         eventDetails.backgroundImage = 'images/shield_bg.jpg';
         eventDetails.hereFrom = 'shieldCompetition';
+         eventDetails.bubbleImag = $scope.competitions[i].src;
         console.log(eventDetails.eventData.eventSrcs);
     };
   });
